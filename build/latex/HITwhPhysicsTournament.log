@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  14 SEP 2018 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  15 SEP 2018 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,6 +1004,70 @@ File: c70gbsn.fdx 2015/04/18 4.8.4
 ] (./HITwhPhysicsTournament.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
+
+
+! Package inputenc Error: Unicode character 赛 (U+8D5B)
+(inputenc) not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...\DeclareUnicodeCharacter }}{19}{chapter.9}
+                                                  
+? q
+OK, entering \batchmode...
+
+! Package inputenc Error: Unicode character 场 (U+573A)
+(inputenc) not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...\DeclareUnicodeCharacter }}{19}{chapter.9}
+                                                  
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+! Package inputenc Error: Unicode character 策 (U+7B56)
+(inputenc) not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...\DeclareUnicodeCharacter }}{19}{chapter.9}
+                                                  
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+! Package inputenc Error: Unicode character 略 (U+7565)
+(inputenc) not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...\DeclareUnicodeCharacter }}{19}{chapter.9}
+                                                  
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
 )
 \tf@toc=\write6
 \openout6 = `HITwhPhysicsTournament.toc'.
@@ -1014,33 +1078,53 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 
 ]
 Chapter 1.
-[1
+ [1
 
 ] [2]
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 132.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 118.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 130.
+
 
 (c:/Program Files/TexLive/2018/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [3
 
-]
-[4] (./HITwhPhysicsTournament.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+] [4] [5] [6
 
+]
+Chapter 3.
+ [7] [8
+
+]
+Chapter 4.
+ [9] [10
+
+]
+Chapter 5.
+ [11] [12
+
+]
+Chapter 6.
+ [13] [14
+
+]
+Chapter 7.
+ [15] [16
+
+]
+Chapter 8.
+ [17] [18
+
+]
+Chapter 9.
+ (./HITwhPhysicsTournament.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 272.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.239 \end{document}
-                    
-? q
-OK, entering \batchmode...
-! Undefined control sequence.
-\set@color ...\@pdfcolorstack push{\current@color 
-                                                  }\aftergroup \reset@color 
-l.239 \end{document}
+l.272 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1048,24 +1132,35 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.272 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ [19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
  (./HITwhPhysicsTournament.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 272.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 272.
 Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
-(rerunfilecheck)             Checksum: B116539C865BC4FA1785F51C16DB43AC;644.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
+(rerunfilecheck)             Checksum: A516FA6D6093BDAE2F73DE997696704A;1166.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 272.
  ) 
 Here is how much of TeX's memory you used:
- 16013 strings out of 492649
- 222645 string characters out of 6126736
- 330769 words of memory out of 5000000
- 19242 multiletter control sequences out of 15000+600000
- 73281 words of font info for 163 fonts, out of 8000000 for 9000
+ 16163 strings out of 492649
+ 225049 string characters out of 6126736
+ 331258 words of memory out of 5000000
+ 19351 multiletter control sequences out of 15000+600000
+ 77071 words of font info for 176 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 37i,11n,45p,732b,2550s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,45p,1216b,2545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Program Files/TexLive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><c:/Pro
@@ -1095,7 +1190,6 @@ gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb><c:/Pro
-gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><c:/Pro
 gram Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb><c:/Pro
@@ -1145,10 +1239,10 @@ gram Files/TexLive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Prog
 ram Files/TexLive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/Progr
 am Files/TexLive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program F
 iles/TexLive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on HITwhPhysicsTournament.pdf (9 pages, 498001 bytes).
+Output written on HITwhPhysicsTournament.pdf (23 pages, 518869 bytes).
 PDF statistics:
- 485 PDF objects out of 1000 (max. 8388607)
- 313 compressed objects within 4 object streams
- 20 named destinations out of 1000 (max. 500000)
- 373 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 578 PDF objects out of 1000 (max. 8388607)
+ 394 compressed objects within 4 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 425 words of extra memory for PDF output out of 10000 (max. 10000000)
 

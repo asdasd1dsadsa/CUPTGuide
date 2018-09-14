@@ -248,6 +248,8 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu76.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu5f.tfm
 INPUT HITwhPhysicsTournament.toc
 INPUT HITwhPhysicsTournament.toc
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
@@ -275,9 +277,18 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu53.tf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu80.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6c.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu59.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu78.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu4f.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu60.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu64.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu96.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu77.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8b.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu9a.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu74.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu62.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu54.tfm
 OUTPUT HITwhPhysicsTournament.toc
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
@@ -287,22 +298,18 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.t
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu52.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8a.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu62.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu88.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu68.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu5c.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu75.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu72.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu74.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnuff.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu5e.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu54.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8e.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu66.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8f.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6b.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu57.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu4f.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu7e.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu30.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu99.tfm
@@ -312,18 +319,12 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu79.tf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu50.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu5f.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6d.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu78.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu60.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu86.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8b.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu90.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu77.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu5d.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu81.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu9a.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu7d.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu94.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu96.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu7c.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu63.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu95.tfm
@@ -340,7 +341,8 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu58.tf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu69.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6a.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu7a.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8d.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu7b.tfm
@@ -360,7 +362,6 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT c:/Program Files/TexLive/2018/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu89.tfm
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu76.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu51.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu65.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu67.tfm
@@ -368,7 +369,6 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6e.tf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu64.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu5b.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu53.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu80.tfm
@@ -378,6 +378,19 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8d.tf
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu59.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu9f.tfm
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu55.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu78.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu4f.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu60.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu64.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu96.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu77.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu8b.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu9a.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu74.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu62.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu54.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu57.tfm
+INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu75.tfm
 INPUT HITwhPhysicsTournament.ind
 INPUT HITwhPhysicsTournament.ind
 INPUT HITwhPhysicsTournament.aux
@@ -412,7 +425,6 @@ INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb
-INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb
 INPUT c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb

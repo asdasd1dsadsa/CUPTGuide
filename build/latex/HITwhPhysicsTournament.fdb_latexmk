@@ -1,15 +1,15 @@
 # Fdb version 3
-["makeindex HITwhPhysicsTournament.idx"] 1536933673 "HITwhPhysicsTournament.idx" "HITwhPhysicsTournament.ind" "HITwhPhysicsTournament" 1536933673
-  "HITwhPhysicsTournament.idx" 1536933644 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex HITwhPhysicsTournament.idx"] 1536933673 "HITwhPhysicsTournament.idx" "HITwhPhysicsTournament.ind" "HITwhPhysicsTournament" 1536941329
+  "HITwhPhysicsTournament.idx" 1536941320 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "HITwhPhysicsTournament.ilg"
   "HITwhPhysicsTournament.ind"
-["pdflatex"] 1536933673 "HITwhPhysicsTournament.tex" "HITwhPhysicsTournament.pdf" "HITwhPhysicsTournament" 1536933673
-  "HITwhPhysicsTournament.aux" 1536933649 2664 24d25d2c4c20f086b518f59df45deaa2 ""
+["pdflatex"] 1536941329 "HITwhPhysicsTournament.tex" "HITwhPhysicsTournament.pdf" "HITwhPhysicsTournament" 1536941329
+  "HITwhPhysicsTournament.aux" 1536941322 5836 d2978727ea2b63a5378db6f6be0b1e14 ""
   "HITwhPhysicsTournament.ind" 1536933673 0 d41d8cd98f00b204e9800998ecf8427e "makeindex HITwhPhysicsTournament.idx"
-  "HITwhPhysicsTournament.out" 1536933649 644 b116539c865bc4fa1785f51c16db43ac ""
-  "HITwhPhysicsTournament.tex" 1536933606 12808 ba61d7854b268dce94322aec7c1116da ""
-  "HITwhPhysicsTournament.toc" 0 -1 0 ""
+  "HITwhPhysicsTournament.out" 1536941322 1166 a516fa6d6093bdae2f73de997696704a ""
+  "HITwhPhysicsTournament.tex" 1536941313 15062 faa0dc5ba3ec48ceabdfad385abd640a ""
+  "HITwhPhysicsTournament.toc" 1536941322 2292 e43ea2a2c1d1cc665ba7b5a140d025de ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1528925223 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1528925449 3332 103109f5612ad95229751940c61aada0 ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1528925582 4484 b828043cbd581d289d955903c1339981 ""
@@ -50,7 +50,6 @@
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu67.tfm" 1528924628 1288 ee87cc28b5e1591571b747d6f41b7a7a ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu68.tfm" 1528924628 1276 b428e478e602dc1b9723dea60b8af584 ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu69.tfm" 1528924628 1284 0d7b728f1bcdbe96f817e913eef67ffe ""
-  "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6a.tfm" 1528924629 916 20324f3a5233ef088db254e03f72d571 ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6b.tfm" 1528924629 1152 ea4dbdb2f37dfe29022636369b55609f ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6c.tfm" 1528924629 1264 b24fc96830de1d2e65d12183280784ca ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6d.tfm" 1528924629 1272 5b56488895cc138034f58039593e083a ""
@@ -137,7 +136,6 @@
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb" 1528924630 57899 77be8b631c2ea7a76cacef3efd46c3c4 ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb" 1528924630 59321 9628f2ac98c460a56e73df83fc3d5404 ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu69.pfb" 1528924630 50124 b5cfd6f2ef4469b55f6a967c9dc07998 ""
-  "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb" 1528924630 30179 b5308e7ad8c2f175a47328798cff4016 ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6b.pfb" 1528924630 45264 4e6cedf6fc580d9f1d0d1b6cd47391ea ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6c.pfb" 1528924630 68105 2fb48b37d8c6813e1d450d65dd62ee6f ""
   "c:/Program Files/TexLive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb" 1528924630 67714 582b925c26f2f8499529ca37d859b484 ""
@@ -293,13 +291,13 @@
   "c:/Program Files/TexLive/2018/texmf.cnf" 1528927595 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "footnotehyper-sphinx.sty" 1522914754 8886 0562fcad2b7e25f93331edc6fc422c87 ""
   "sphinx.sty" 1522914754 67712 9b578972569f0169bf44cfae88da82f2 ""
-  "sphinxhighlight.sty" 1536933606 8242 38a433148fcb7611515a989ff1750dd5 ""
+  "sphinxhighlight.sty" 1536941313 8242 38a433148fcb7611515a989ff1750dd5 ""
   "sphinxmanual.cls" 1522914754 3589 0b0aac49c6f36925cf5f9d524a75a978 ""
   "sphinxmulticell.sty" 1522914754 14618 0defbdc8536ad2e67f1eac6a1431bc55 ""
   (generated)
   "HITwhPhysicsTournament.out"
   "HITwhPhysicsTournament.toc"
-  "HITwhPhysicsTournament.log"
-  "HITwhPhysicsTournament.pdf"
   "HITwhPhysicsTournament.aux"
+  "HITwhPhysicsTournament.pdf"
+  "HITwhPhysicsTournament.log"
   "HITwhPhysicsTournament.idx"

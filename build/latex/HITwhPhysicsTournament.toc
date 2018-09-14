@@ -9,4 +9,11 @@
 \contentsline {subsection}{\numberline {2.4.1}参赛前}{4}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}参赛中}{4}{subsection.2.4.2}
 \contentsline {section}{\numberline {2.5}对参赛者的好处}{4}{section.2.5}
+\contentsline {chapter}{\numberline {3}研究简介}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}信息搜集}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}知识学习}{11}{chapter.5}
+\contentsline {chapter}{\numberline {6}实验}{13}{chapter.6}
+\contentsline {chapter}{\numberline {7}理论分析}{15}{chapter.7}
+\contentsline {chapter}{\numberline {8}报告与讨论}{17}{chapter.8}
+\contentsline {chapter}{\numberline {9}\GenericError {(inputenc) }{Package inputenc Error: Unicode character 赛 (U+8D5B)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 场 (U+573A)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 策 (U+7B56)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 略 (U+7565)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }}{19}{chapter.9}
 \babel@toc {english}{}

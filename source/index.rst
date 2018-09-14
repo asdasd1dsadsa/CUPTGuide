@@ -7,9 +7,9 @@
 ==================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 目录
+    :maxdepth: 2
+    :caption: 目录
+    :glob:
 
-   Preface
-   Introduction
+    *
 
