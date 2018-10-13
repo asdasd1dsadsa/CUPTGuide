@@ -1,0 +1,223 @@
+===========
+附录
+===========
+
+-------------
+当前竞赛题目
+-------------
+
+1. 自己发明 Invent yourself
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Build a simple motor whose propulsion is based on corona discharge.
+
+制作一个动力源于电晕放电的简单马达。
+
+Investigate how the rotor’s motion depends on relevant parameters and optimize your design for maximum speed at a fixed input voltage.
+
+调查转子的运动与相关参量的依赖关系，并在恒定的输入电压下使速度最大化。
+
+2. 烟雾 Aerosol
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When water flows through a small aperture, an aerosol may be formed.
+
+当水流过一个小孔，可能有烟雾形成。
+
+Investigate the parameters that determine whether an aerosol is formed rather than a jet for example.
+
+调查决定烟雾形成与否的参量（比如，可能生成的是射流而非烟雾）。
+
+What are the properties of the aerosol?
+
+烟雾的性质有哪些？
+
+3. 低音 Undertone Sound
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Allow a tuning fork or another simple oscillator to vibrate against a sheet of paper with a weak contact between them. The frequency of the resulting sound can have a lower frequency than the tuning fork’s fundamental frequency.
+
+让音叉或者其他简单的振子轻微地接触着一片纸振动，如此产生的声音的频率可能略低于音叉的基频。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+4. 漏斗与球 Funnel and Ball
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A light ball (e.g. ping-pong ball) can be picked up with a funnel by blowing air through it.
+
+一个轻球（如乒乓球）可以用漏斗吹气的方式捡起来。
+
+Explain the phenomenon and investigate the relevant parameters.
+
+解释这个现象并调查有关的参量。
+
+5. 倒水壶 Filling Up a Bottle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a vertical water jet enters a bottle, sound may be produced, and, as the bottle is filled up, the properties of the sound may change.
+
+当水流竖直进入瓶子，可能会产生声音。随着瓶子被装满，声音的性质可能发生改变。
+
+Investigate how relevant parameters of the system such as speed and dimensions of the jet, size and shape of the bottle or water temperature affect the sound.
+
+调查系统的相关参量（如水流的速度和尺寸、瓶子的形状尺寸、水温等）如何影响声音。
+
+6. 飓风球 Hurricane Balls
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Two steel balls that are joined together can be spun at incredibly high frequency by first spinning them by hand and then blowing on them through a tube, e.g. a drinking straw.
+
+用手让两个连接的钢球转起来，然后用管子向它们吹气，它们能以难以置信的频率旋转。
+
+Explain and investigate this phenomenon.
+
+解释并研究此现象。
+
+7. 大声 Loud Voices
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A simple cone-shaped or horn-shaped object can be used to optimise the transfer of the human voice to a remote listener.
+
+一个简单的锥形或角状的物体可以用于优化人声的远程传送。
+
+Investigate how the resulting acoustic output depends on relevant parameters such as the shape, size, and material of the cone.
+
+研究结果的声输出是如何依赖于相关参量（如锥的形状、尺寸、材料）的。
+
+8. 科幻之声 Sci-Fi Sound
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tapping a helical spring can make a sound like a “laser shot” in a science-fiction movie.
+
+轻拍一个盘簧能产生类似科幻电影中激光枪的射击声。
+
+Investigate and explain this phenomenon.
+
+研究并解释此现象。
+
+9. 酱油光学 Soy Sauce Optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Using a laser beam passing through a thin layer (about 200 μm) of soy sauce the thermal lens effect can be observed.
+
+让激光束通过一层薄酱油（约200微米），可以观察到热透镜效应。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+10. 悬空水轮 Suspended Water Wheel
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Carefully place a light object, such as a Styrofoam disk, near the edge of a water jet aiming upwards. Under certain conditions, the object will start to spin while being suspended.
+
+在一束水流的边缘小心地向上放置一个轻物体（如泡沫塑料碟）。在特定条件下，物体会在悬浮中自旋。
+
+Investigate this phenomenon and its stability to external perturbations.
+
+研究此现象及其对外界扰动的稳定性。
+
+11. 平面上的自组织 Flat Self-Assembly
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Put a number of identical hard regular-shaped particles in a flat layer on top of a vibrating plate. Depending on the number of particles per unit area, they may or may not form an ordered crystal-like structure. Investigate the phenomenon.
+
+在一个振动的盘子的平整表面上放置一定数量相同的硬而形状规则的粒子。依赖于单位面积上粒子的数量，它们可能、或者不可能形成有序的晶状结构。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+12. 陀螺磁场计 Gyroscope Teslameter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A spinning gyroscope made from a conducting, but nonferromagnetic material slows down when placed in a magnetic field.
+
+一个由导电但非铁磁性的材料制成的陀螺在磁场中旋转时会减速。
+
+Investigate how the deceleration depends on relevant parameters.
+
+研究减速的加速度如何依赖于相关参量。
+
+13. 莫尔线计数器 Moiré Thread Counter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a pattern of closely spaced non-intersecting lines (with transparent gaps in between) is overlaid on a piece of woven fabric, characteristic moiré fringes may be observed. Design an overlay that allows you to measure the thread count of the fabric.
+
+当不交叉的直线（其间有透明的间隙）紧密排布而成的一种图样覆盖于编织物之上时，可以观察到特征的摩尔条纹。设计一种允许你测量编织物上丝线数目的图案。
+
+Determine the accuracy for simple fabrics (e.g. linen) and investigate if the method is reliable for more complex fabrics (e.g. denim or Oxford cloth).
+
+确定对于简单编织物（如麻布）的精度，并调查对于更复杂的编织物（如牛仔布、牛津布）这个方法是否可靠。
+
+14. 回转摆 Looping Pendulum
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Connect two loads, one heavy and one light, with a string over a horizontal rod and lift up the heavy load by pulling down the light one. Release the light load and it will sweep around the rod, keeping the heavy load from falling to the ground.
+
+用跨过水平杆的绳子连接一轻一重两个负载，并通过下拉轻的负载来提起重的负载。释放轻的负载，它将绕着杆扫动，从而使重的负载不落地。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+15. 牛顿摇篮 Newton’s Cradle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The oscillations of a Newton’s cradle will gradually decay until the spheres come to rest.
+
+牛顿摇篮的振动会逐渐衰减直到球体静止。
+
+Investigate how the rate of decay of a Newton’s cradle depends on relevant parameters such as the number, material, and alignment of the spheres.
+
+调查牛顿摇篮的衰减速率与相关参量（如球体的数量、材料、排布）的依赖关系。
+
+16. 下沉的气泡 Sinking Bubbles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a container of liquid (e.g. water) oscillates vertically, it is possible that bubbles in the liquid move downwards instead of rising.
+
+当液体（比如水）容器竖直振荡，液体中的气泡可能下降而非上升。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+17. 冰棍柄链反应 Popsicle Chain Reaction
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Wooden popsicle sticks can be joined together by slightly bending each of them so that they interlock in a so-called “cobra weave” chain. When such a chain has one of its ends released, the sticks rapidly dislodge, and a wave front travels along the chain.
+
+木制的冰棍柄可以被弯曲从而连接起来，互相锁住而形成所谓的“眼镜蛇编织”锁链。当这样的链条有一端被释放，棍子会迅速散架，而一个波前会在链中传导。
+
+Investigate the phenomenon.
+
+研究此现象。
+
+-------------
+启发性问题
+-------------
+以下是一些通用的启发性问题，没有正确答案。要对研究的对象有较深的了解，可以试着对它们进行一定的思考、作出自己的回答。
+
+#. 题中所描述的现象是什么？有多种理解方式吗？如果有，哪种现象是你感兴趣的？
+
+#. 题目指定的研究任务是否足够明确，以至于能直接告诉你要做什么？如果不能，你打算把它具体化为对什么问题的研究？
+
+#. 现象的原理是什么？属于哪个学科的研究范围？已有的研究做到什么程度了？
+
+#. 是否能用简单而基本的理论完成一些偏差不很大的预测？如果不能，应当采用什么样的分析方法或者物理模型？
+
+#. 你所重现的现象与题目中描述的现象有什么差别？是否完全实现了题中的描述？除此之外你还得到了什么额外的信息？
+
+#. 装置中有哪些参量是你能调整的？你能想到的参量之间是独立的吗？它们对现象有没有性质上的或者数量上的影响？
+
+#. 装置的各个要素对现象有什么影响？有它什么样、没它什么样、有无替代品？
+
+#. 现象发生的条件是什么？什么情况能发生、什么情况不能？
+
+#. 系统有无（近似的）守恒量？如果有，它在装置的各部分间是如何“转移”的？
+
+-------------
+较有用的程序
+-------------
+数学软件：Mathematica（更全能）、Matlab（更快的矩阵运算）
+
+编程语言：Python（更简单的语法）、C++（更高的性能）、Arduino（能迅速上手的单片机编程语言）
+
+仿真模拟：COMSOL（更全能）、Ansys系列（某些模块有更多的优化，如流体和弹性体）、Proteus（电路仿真）
+
+数据处理：Excel（更方便）、Origin（更专业）、Tracker（对视频中的物体进行跟踪）
+
+演示：Powerpoint（更通用）、LaTeX Beamer（更专业）
+
+	广告：在这个比赛中，你可以仅学习 **Mathematica** ，这样的话以上的其他软件都可以免了。当然如果你已经有Matlab等软件的使用经验，或者有特种的需求（如超高性能计算），就另说了。
+
+工程制图：Solidworks（主要3D）、AutoCAD（主要2D）
