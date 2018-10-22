@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  13 OCT 2018 17:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  22 OCT 2018 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1069,7 +1069,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.}
 
 
-! Package inputenc Error: Unicode character 程 (U+7A0B)
+! Package inputenc Error: Unicode character 软 (U+8F6F)
 (inputenc) not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
@@ -1086,7 +1086,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.}
 
 
-! Package inputenc Error: Unicode character 序 (U+5E8F)
+! Package inputenc Error: Unicode character 件 (U+4EF6)
 (inputenc) not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
@@ -1151,13 +1151,13 @@ Chapter 6.
 ]
 Chapter 7.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 657.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 660.
  [17] [18] [19] [20] (./HITwhPhysicsTournament.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 863.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 866.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.863 \end{document}
+l.866 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1168,7 +1168,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.863 \end{document}
+l.866 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1177,24 +1177,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
  [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 863.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 866.
  (./HITwhPhysicsTournament.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 863.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 863.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 866.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 866.
 Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
-(rerunfilecheck)             Checksum: EFE400756020C38AADE5BDB5F13CC4B0;2170.
+(rerunfilecheck)             Checksum: 97C9AA01E41CA62008E63CF73E3E06DA;2170.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 863.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 866.
  ) 
 Here is how much of TeX's memory you used:
- 17277 strings out of 492649
- 241481 string characters out of 6126736
+ 17281 strings out of 492649
+ 241525 string characters out of 6126736
  337124 words of memory out of 5000000
- 20319 multiletter control sequences out of 15000+600000
- 93188 words of font info for 226 fonts, out of 8000000 for 9000
+ 20323 multiletter control sequences out of 15000+600000
+ 92891 words of font info for 225 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  37i,12n,49p,1766b,3163s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Program Files/TexLive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Pro
@@ -1282,10 +1282,10 @@ gram Files/TexLive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c
 /Program Files/TexLive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/
 Program Files/TexLive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Prog
 ram Files/TexLive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on HITwhPhysicsTournament.pdf (25 pages, 796313 bytes).
+Output written on HITwhPhysicsTournament.pdf (25 pages, 797589 bytes).
 PDF statistics:
- 744 PDF objects out of 1000 (max. 8388607)
- 543 compressed objects within 6 object streams
- 107 named destinations out of 1000 (max. 500000)
+ 745 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 108 named destinations out of 1000 (max. 500000)
  529 words of extra memory for PDF output out of 10000 (max. 10000000)
 
