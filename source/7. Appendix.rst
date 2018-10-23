@@ -5,6 +5,7 @@
 --------------
 2019年竞赛题目
 --------------
+我提供的中文翻译仅供参考。
 
 1. 自己发明 Invent yourself
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -106,7 +107,7 @@ Investigate this phenomenon.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Carefully place a light object, such as a Styrofoam disk, near the edge of a water jet aiming upwards. Under certain conditions, the object will start to spin while being suspended.
 
-在一束水流的边缘小心地向上放置一个轻物体（如泡沫塑料碟）。在特定条件下，物体会在悬浮中自旋。
+在一束向上的水流的边缘小心地放置一个轻物体（如泡沫塑料盘）。在特定条件下，物体会在悬浮中自旋。
 
 Investigate this phenomenon and its stability to external perturbations.
 
@@ -134,7 +135,7 @@ Investigate how the deceleration depends on relevant parameters.
 
 13. 莫尔线计数器 Moiré Thread Counter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-When a pattern of closely spaced non-intersecting lines (with transparent gaps in between) is overlaid on a piece of woven fabric, characteristic moiré fringes may be observed. Design an overlay that allows you to measure the thread count of the fabric.
+When a pattern of closely spaced non-intersecting lines (with transparent gaps in between) is overlaid on a piece of woven fabric, characteristic Moiré fringes may be observed. Design an overlay that allows you to measure the thread count of the fabric.
 
 当不交叉的直线（其间有透明的间隙）紧密排布而成的一种图样覆盖于编织物之上时，可以观察到特征的摩尔条纹。设计一种允许你测量编织物上丝线数目的图案。
 
