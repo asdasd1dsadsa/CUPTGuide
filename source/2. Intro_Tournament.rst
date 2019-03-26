@@ -34,7 +34,7 @@
 
 - IYPT官方网站的档案，往年题目、比赛视频和研究资料：http://archive.iypt.org/
 - GYPT官方网站的指引，题目、视频、指引：https://gypt.org/aufgaben.html （德文，建议翻译成英文看）
-- Reference Kit，某学者整理的参考资料，提供标题和链接： http://kit.ilyam.org （今年的尚未发布）
+- Reference Kit，某学者整理的参考资料，提供标题和链接： http://kit.ilyam.org
 - 微信公众号：IYPT青年物理学家
 - 任何一个学术搜索引擎，如百度学术
 - 任何一个论文文档获取途径，如 sci-hub_
