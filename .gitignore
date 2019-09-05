@@ -1,1 +1,7 @@
-build\
+build/
+source/_build/
+source/_templates/
+source/_static/
+*.lnk
+*.bat
+Makefile
