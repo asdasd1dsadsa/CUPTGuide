@@ -134,7 +134,7 @@ Explain this phenomenon and investigate the dependence on the relevant parameter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A massive object is placed onto two identical parallel horizontal cylinders. The two cylinders each rotate with the same angular velocity, but in opposite directions. 
 
-一个重物放置在两根水平平行的相同圆柱上，而两根圆柱是以相反的角速度旋转着的。
+一个重物体 [#]_ 放置在两根水平平行的相同圆柱上，而两根圆柱是以大小相同方向相反的角速度旋转着的。
 
 Investigate how the motion of the object on the cylinders depends on the relevant parameters.
 
@@ -191,6 +191,8 @@ Investigate the parameters that affect the distance and the trajectory.
 .. [#] 在关于亚瑟王的西方神话传说中，摩根勒菲是一名女性巫师的名字，也用于指代她用巫术所创造的空中城堡幻象。
 
 .. [#] 狭义上， *Fata Morgana* 仅指一类复杂蜃景，它相似于且似乎可以归类于上现蜃景。但 *similar* 一词或许使得普通的上现蜃景、甚至下现蜃景也可以是研究对象。
+
+.. [#] 原文 *massive object* 也可能指一般的有质量的物体，但考虑为较重的物体对本题的研究是有特别意义的。
 
 .. [#] 不同规则、不同地域的标准是有些不同的，但这对研究的意义并无影响，因为这个条件的存在只是为了把研究范围限定在可手持的纸牌的范围内。
 
