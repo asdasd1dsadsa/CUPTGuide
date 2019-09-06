@@ -29,6 +29,8 @@ Explain the phenomenon.
 
 解释这个现象。
 
+从这里开始：任何一本流体力学教材的圆柱体绕流问题
+
 3. 摇摆声管 Swinging Sound Tube
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A Sound Tube is a toy, consisting of a corrugated plastic tube, that you can spin around to produce sounds.
@@ -38,6 +40,8 @@ A Sound Tube is a toy, consisting of a corrugated plastic tube, that you can spi
 Study the characteristics of the sounds produced by such toys, and how they are affected by the relevant parameters.
 
 研究这样的玩具所发出的声音的特性，以及这些特性是如何被相关参量所影响的。
+
+从这里开始：Amorim M E , Sousa T D , Carvalho P S , et al. `A Simple Experiment to Explore Standing Waves in a Flexible Corrugated Sound Tube[J]. <http://sci-hub.tw/10.1119/1.3628265>`_ The Physics Teacher, 2011, 49(6):360.
 
 4. 唱歌的磁铁 [#]_ Singing Ferrite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -49,6 +53,7 @@ Investigate the phenomenon.
 
 探究这个现象。
 
+从这里开始：磁致伸缩效应 `Magnetostriction <https://en.wikipedia.org/wiki/Magnetostriction>`_
 
 5. 甜蜜泡影 Sweet Mirage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -60,6 +65,8 @@ Investigate the phenomenon.
 
 探究这个现象。
 
+参考：Greenler R G . `Laboratory simulation of inferior and superior mirages[J]. <https://www.osapublishing.org/josaa/abstract.cfm?uri=JOSAA-4-3-589>`_ Journal of the Optical Society of America A, 1987, 4(3):589-590.
+
 6. 萨克逊碗 Saxon Bowl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A bowl with a hole in its base will sink when placed in water. The Saxons used this device for timing purposes.
@@ -70,6 +77,8 @@ Investigate the parameters that determine the time of sinking.
 
 探究决定下沉时间的参量。
 
+从这里开始：Greer A , Kincanon E . `An experiment with Saxon bowls[J]. <https://www.researchgate.net/publication/239045627_An_experiment_with_Saxon_bowls>`_ The Physics Teacher, 2000, 38(2):112-112.
+
 7. 绳上球 Balls on a String
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Put a string through a ball with a hole in it such that the ball can move freely along the string. Attach another ball to one end of the string. When you move the free end periodically, you can observe complex movements of the two balls.
@@ -79,6 +88,8 @@ Put a string through a ball with a hole in it such that the ball can move freely
 Investigate the phenomenon.
 
 探究这个现象。
+
+参考：支点驱动的摆问题、参数振动问题、双摆问题。
 
 8. 皂膜筛子 Soap Membrane Filter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -100,6 +111,8 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 
 探究搅拌子的动态稳定的起源以及这是如何依赖于相关参量的。
 
+从这里开始：K. A. Baldwin, J.-B. de Fouchier, P. Atkinson, et al. `Magnetic Levitation Stabilized by Streaming Fluid Flows[J]. <https://arxiv.org/pdf/1805.08608.pdf>`_ Physical Review Letters, 2018, 121(6):064502-.
+
 10. 导电线 Conducting Lines
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A line drawn with a pencil on paper can be electrically conducting.
@@ -109,6 +122,8 @@ A line drawn with a pencil on paper can be electrically conducting.
 Investigate the characteristics of the conducting line.
 
 探究这根导电的线的特性。
+
+参考：Kurra N , Dutta D , Kulkarni G U . `Field effect transistors and RC filters from pencil-trace on paper[J]. <http://sci-hub.tw/10.1039/C3CP50675D>`_ Physical Chemistry Chemical Physics, 2013, 15(21):8367.
 
 11. 漂移斑点 Drifting Speckles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -120,6 +135,9 @@ Explain the phenomenon and investigate how the drift depends on relevant paramet
 
 解释此现象并探究漂移是如何依赖于相关参量的。
 
+从这里开始： `为什么激光光束（或其反射）会看起来有颗粒感？ <https://www.zhihu.com/question/27062939/answer/35097037>`_
+
+
 12. 多边形旋涡 Polygon Vortex
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A stationary cylindrical vessel containing a rotating plate near the bottom surface is partially filled with liquid. Under certain conditions, the shape of the liquid surface becomes polygon-like.
@@ -130,11 +148,13 @@ Explain this phenomenon and investigate the dependence on the relevant parameter
 
 解释这个现象并探究其与相关参量的依赖关系。
 
+从这里开始：Jansson T R N , Haspang M P , Jensen K H , et al. `Polygons on a Rotating Fluid Surface[J]. <https://arxiv.org/pdf/physics/0511251.pdf>`_ Physical Review Letters, 2006, 96(17):174502.
+
 13. 摩擦振子 Friction Oscillator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A massive object is placed onto two identical parallel horizontal cylinders. The two cylinders each rotate with the same angular velocity, but in opposite directions. 
 
-一个重物放置在两根水平平行的相同圆柱上，而两根圆柱是以相反的角速度旋转着的。
+一个重物体 [#]_ 放置在两根水平平行的相同圆柱上，而两根圆柱是以大小相同方向相反的角速度旋转着的。
 
 Investigate how the motion of the object on the cylinders depends on the relevant parameters.
 
@@ -190,7 +210,9 @@ Investigate the parameters that affect the distance and the trajectory.
 
 .. [#] 在关于亚瑟王的西方神话传说中，摩根勒菲是一名女性巫师的名字，也用于指代她用巫术所创造的空中城堡幻象。
 
-.. [#] 狭义上， *Fata Morgana* 仅指一类复杂蜃景，它相似于且似乎可以归类于上现蜃景。但 *similar* 一词或许使得普通的上现蜃景、甚至下现蜃景也可以是研究对象。
+.. [#] 看上去， *similar* 一词相当含糊，仿佛意味着各种各样的蜃景都可以是研究对象。实际上，狭义的 *Fata Morgana* 仅指某一类复杂蜃景，它相似于一般的上现蜃景，但它在竖直方向上包含多幅图像、或者说一系列图像）。具体可以参考 Young A T , Frappa E . `Mirages at Lake Geneva: the Fata Morgana[J]. <http://sci-hub.tw/10.1364/ao.56.000g59>`_ Applied Optics, 2017, 56(19):G59.
+
+.. [#] 原文 *massive object* 也可能指一般的有质量的物体，但考虑为较重的物体对本题的研究是有特别意义的。
 
 .. [#] 不同规则、不同地域的标准是有些不同的，但这对研究的意义并无影响，因为这个条件的存在只是为了把研究范围限定在可手持的纸牌的范围内。
 

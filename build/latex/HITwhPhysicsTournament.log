@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  5 SEP 2019 17:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  7 SEP 2019 01:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,194 +1004,6 @@ File: c70gbsn.fdx 2015/04/18 4.8.4
 ] (./HITwhPhysicsTournament.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-
-
-! Package inputenc Error: Unicode character 启 (U+542F)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...eclareUnicodeCharacter }}{27}{section.7.2}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 发 (U+53D1)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...eclareUnicodeCharacter }}{27}{section.7.2}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 性 (U+6027)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...eclareUnicodeCharacter }}{27}{section.7.2}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 问 (U+95EE)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...eclareUnicodeCharacter }}{27}{section.7.2}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 题 (U+9898)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...eclareUnicodeCharacter }}{27}{section.7.2}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 较 (U+8F83)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...eclareUnicodeCharacter }}{27}{section.7.3}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 有 (U+6709)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...eclareUnicodeCharacter }}{27}{section.7.3}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 用 (U+7528)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...eclareUnicodeCharacter }}{27}{section.7.3}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 的 (U+7684)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...eclareUnicodeCharacter }}{27}{section.7.3}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 软 (U+8F6F)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...eclareUnicodeCharacter }}{27}{section.7.3}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
-
-! Package inputenc Error: Unicode character 件 (U+4EF6)
-(inputenc) not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.58 ...eclareUnicodeCharacter }}{27}{section.7.3}
-                                                  
-You may provide a definition with
-\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
-the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
-
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.}
-
 )
 \tf@toc=\write6
 \openout6 = `HITwhPhysicsTournament.toc'.
@@ -1244,35 +1056,35 @@ Chapter 7.
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Undefined control sequence.
 <argument> ...let }\u8:根 {\global \let }\u8:勒 
                                                   {\global \let }\u8:菲 }\e...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1283,7 +1095,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> ...let }\u8:勒 {\global \let }\u8:菲 
                                                   }\edef \Hy@tempb {}\ifx \H...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1294,7 +1106,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> ...let }\u8:根 {\global \let }\u8:勒 
                                                   {\global \let }\u8:菲 \if...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1305,7 +1117,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> ...let }\u8:勒 {\global \let }\u8:菲 
                                                   \ifx \\\\\else \hyper@hash...
-l.1095 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1103 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1313,20 +1125,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[24]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1195.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1195.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1195.
- [25] [26] (./HITwhPhysicsTournament.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1306.
+[24] [25] [26] [27] (./HITwhPhysicsTournament.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1332.
 
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.1306 \end{document}
+l.1332 \end{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1337,7 +1142,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.1306 \end{document}
+l.1332 \end{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1345,11 +1150,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1306.
+[28]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1332.
  (./HITwhPhysicsTournament.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1306.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1306.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1332.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1332.
 
 Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
@@ -1358,7 +1163,7 @@ Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1306.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1332.
  )
 (\end occurred when \ifx on line 1 was incomplete)
 (\end occurred when \ifx on line 1 was incomplete)
@@ -1369,13 +1174,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1306.
 (\end occurred when \ifx on line 1 was incomplete)
 (\end occurred when \ifx on line 1 was incomplete) 
 Here is how much of TeX's memory you used:
- 17999 strings out of 492649
+ 18001 strings out of 492649
  253477 string characters out of 6126736
- 346303 words of memory out of 5000000
- 20872 multiletter control sequences out of 15000+600000
- 134641 words of font info for 337 fonts, out of 8000000 for 9000
+ 346322 words of memory out of 5000000
+ 20882 multiletter control sequences out of 15000+600000
+ 134935 words of font info for 338 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 37i,12n,45p,1766b,3225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,12n,45p,1178b,3280s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Program Files/TexLive/201
 8/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Program Files/TexLive/2018/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Program Files/TexLive/2018/te
@@ -1464,10 +1269,10 @@ e/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Program Files/TexLive
 2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program Files/TexLive/2018
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Program Files/TexLive/2018/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on HITwhPhysicsTournament.pdf (31 pages, 920127 bytes).
+Output written on HITwhPhysicsTournament.pdf (32 pages, 928179 bytes).
 PDF statistics:
- 796 PDF objects out of 1000 (max. 8388607)
- 588 compressed objects within 6 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 815 PDF objects out of 1000 (max. 8388607)
+ 605 compressed objects within 7 object streams
+ 122 named destinations out of 1000 (max. 500000)
  525 words of extra memory for PDF output out of 10000 (max. 10000000)
 
