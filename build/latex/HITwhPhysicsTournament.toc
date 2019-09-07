@@ -39,22 +39,22 @@
 \contentsline {chapter}{\numberline {7}附录}{25}{chapter.7}
 \contentsline {section}{\numberline {7.1}2020年竞赛题目}{25}{section.7.1}
 \contentsline {subsection}{\numberline {7.1.1}1. 自己发明 Invent Yourself}{25}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}2. 低调的瓶子 Inconspicuous Bottle}{25}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.2}2. 低调的瓶子 Inconspicuous Bottle}{26}{subsection.7.1.2}
 \contentsline {subsection}{\numberline {7.1.3}3. 摇摆声管 Swinging Sound Tube}{26}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}4. 唱歌的磁铁 Singing Ferrite}{26}{subsection.7.1.4}
-\contentsline {subsection}{\numberline {7.1.5}5. 甜蜜泡影 Sweet Mirage}{26}{subsection.7.1.5}
-\contentsline {subsection}{\numberline {7.1.6}6. 萨克逊碗 Saxon Bowl}{26}{subsection.7.1.6}
-\contentsline {subsection}{\numberline {7.1.7}7. 绳上球 Balls on a String}{27}{subsection.7.1.7}
-\contentsline {subsection}{\numberline {7.1.8}8. 皂膜筛子 Soap Membrane Filter}{27}{subsection.7.1.8}
-\contentsline {subsection}{\numberline {7.1.9}9. 磁悬浮 Magnet Levitation}{27}{subsection.7.1.9}
-\contentsline {subsection}{\numberline {7.1.10}10. 导电线 Conducting Lines}{27}{subsection.7.1.10}
-\contentsline {subsection}{\numberline {7.1.11}11. 漂移斑点 Drifting Speckles}{27}{subsection.7.1.11}
-\contentsline {subsection}{\numberline {7.1.12}12. 多边形旋涡 Polygon Vortex}{28}{subsection.7.1.12}
-\contentsline {subsection}{\numberline {7.1.13}13. 摩擦振子 Friction Oscillator}{28}{subsection.7.1.13}
-\contentsline {subsection}{\numberline {7.1.14}14. 下落的塔 Falling Tower}{28}{subsection.7.1.14}
-\contentsline {subsection}{\numberline {7.1.15}15. 胡椒罐子 Pepper Pot}{28}{subsection.7.1.15}
-\contentsline {subsection}{\numberline {7.1.16}16. 镍钛引擎 Nitinol Engine}{29}{subsection.7.1.16}
-\contentsline {subsection}{\numberline {7.1.17}17. 纸牌 Playing Card}{29}{subsection.7.1.17}
-\contentsline {section}{\numberline {7.2}启发性问题}{29}{section.7.2}
-\contentsline {section}{\numberline {7.3}\GenericError {(inputenc) }{Package inputenc Error: Unicode character 较 (U+8F83)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 有 (U+6709)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 用 (U+7528)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 的 (U+7684)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 软 (U+8F6F)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 件 (U+4EF6)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }}{30}{section.7.3}
+\contentsline {subsection}{\numberline {7.1.4}4. 唱歌的铁芯 Singing Ferrite}{26}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}5. 甜蜜泡影 Sweet Mirage}{27}{subsection.7.1.5}
+\contentsline {subsection}{\numberline {7.1.6}6. 萨克逊碗 Saxon Bowl}{27}{subsection.7.1.6}
+\contentsline {subsection}{\numberline {7.1.7}7. 绳上球 Balls on a String}{28}{subsection.7.1.7}
+\contentsline {subsection}{\numberline {7.1.8}8. 皂膜筛子 Soap Membrane Filter}{28}{subsection.7.1.8}
+\contentsline {subsection}{\numberline {7.1.9}9. 磁悬浮 Magnet Levitation}{29}{subsection.7.1.9}
+\contentsline {subsection}{\numberline {7.1.10}10. 导电线 Conducting Lines}{29}{subsection.7.1.10}
+\contentsline {subsection}{\numberline {7.1.11}11. 漂移斑点 Drifting Speckles}{29}{subsection.7.1.11}
+\contentsline {subsection}{\numberline {7.1.12}12. 多边形旋涡 Polygon Vortex}{30}{subsection.7.1.12}
+\contentsline {subsection}{\numberline {7.1.13}13. 摩擦振子 Friction Oscillator}{30}{subsection.7.1.13}
+\contentsline {subsection}{\numberline {7.1.14}14. 下落的塔 Falling Tower}{31}{subsection.7.1.14}
+\contentsline {subsection}{\numberline {7.1.15}15. 胡椒罐子 Pepper Pot}{31}{subsection.7.1.15}
+\contentsline {subsection}{\numberline {7.1.16}16. 镍钛引擎 Nitinol Engine}{32}{subsection.7.1.16}
+\contentsline {subsection}{\numberline {7.1.17}17. 纸牌 Playing Card}{32}{subsection.7.1.17}
+\contentsline {section}{\numberline {7.2}\GenericError {(inputenc) }{Package inputenc Error: Unicode character 启 (U+542F)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 发 (U+53D1)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 性 (U+6027)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 问 (U+95EE)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 题 (U+9898)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }}{33}{section.7.2}
+\contentsline {section}{\numberline {7.3}\GenericError {(inputenc) }{Package inputenc Error: Unicode character 较 (U+8F83)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 有 (U+6709)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 用 (U+7528)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 的 (U+7684)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 软 (U+8F6F)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 件 (U+4EF6)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }}{33}{section.7.3}
 \babel@toc {english}{}

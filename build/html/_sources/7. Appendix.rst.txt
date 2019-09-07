@@ -7,6 +7,8 @@
 --------------
 我提供的中文翻译和注解仅供参考。翻译的原则是：在中英文的分句能一一对应的前提下，标题尽量还原词汇的背景含义和艺术性（而可能与题目内容关系并不密切），现象描述部分尽量亲切地表述原文最可能要指代的现象（而可能导致含义变得狭窄），任务指定部分尽量保持原意（而不限定任何题意理解和研究的方向）。
 
+我提供某些文献，可能是出于希望读者学习其方法，也可能是因为其参考文献、印证文献的列表有较大的参考价值，但读者不一定一开始就适合阅读它们。我指出的研究领域和方向很可能不正确或是不准确，且仅建议在完全不知所措时参考，否则会错过锤炼信息搜寻能力、积累见闻的机会，而且即便方向正确，它们也不一定适合读者去试，因为它们基于学术上的价值取向而非竞赛的价值取向。
+
 1. 自己发明 Invent Yourself
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -17,6 +19,16 @@ Design an instrument for measuring current using its heating effect.
 What are the accuracy, precision and limits of the method?
 
 这种方法的准确性、精密性、局限性 [#]_ 如何？
+
+* 关键词
+	- 电流传感器（仪器科学、电路学）
+	- 焦耳效应（固体电子学）
+	- 发热功率的统计（热学）
+
+* 路线
+	- 电路设计：根据电路中信号的类型，尽量降低发热对电路中信号的影响。
+	- 热功率测量：响应快（时间分辨率高）、低系统误差、易定标的热传感器。
+	- 分析你所采用的这类设计各方面的理论极限。
 
 2. 低调的瓶子 Inconspicuous Bottle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -29,9 +41,15 @@ Explain the phenomenon.
 
 解释这个现象。
 
-从这里开始： 宽德效应 `Coandă Effect <https://en.wikipedia.org/wiki/Coandă_effect>`_
+* 关键词
+	- 圆柱体绕流问题（流体力学）
 
-参考：任何一本流体力学教材的圆柱体绕流问题
+* 从这里开始
+	- 宽德效应 `Coandă Effect <https://en.wikipedia.org/wiki/Coandă_effect>`_
+	- 蜡烛是如何被吹灭的？
+
+* 路线
+	- 进行不同气流流速、口径、距离、角度的定常流场分析，并借此预测吹灭蜡烛的难易程度。
 
 3. 摇摆声管 Swinging Sound Tube
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -43,21 +61,40 @@ Study the characteristics of the sounds produced by such toys, and how they are 
 
 研究这样的玩具所发出的声音的特性，以及这些特性是如何被相关参量所影响的。
 
-起源：Amorim M E , Sousa T D , Carvalho P S , et al. `A Simple Experiment to Explore Standing Waves in a Flexible Corrugated Sound Tube[J]. <http://sci-hub.tw/10.1119/1.3628265>`_ The Physics Teacher, 2011, 49(6):360.
+* 关键词
+	- 声驻波（声学）
+	- 惯性力引起的弯曲（弹性力学）
+	- 惯性力引起的气流（流体力学）
 
-4. 唱歌的磁铁 [#]_ Singing Ferrite
+* 参考
+	- Amorim M E , Sousa T D , Carvalho P S , et al. `A Simple Experiment to Explore Standing Waves in a Flexible Corrugated Sound Tube[J]. <http://sci-hub.tw/10.1119/1.3628265>`_ Physics Teacher, 2011, 49(6):360.
+
+* 路线
+	- 旋转中的波纹管形状
+	- 旋转中的波纹管中的气体流动
+	- 波纹管中的声音
+
+4. 唱歌的铁芯 [#]_ Singing Ferrite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Insert a ferrite rod into a coil fed from a signal generator. At some frequencies, the rod begins to produce a sound.
 
-在由信号发生器馈电的线圈中插入一根铁氧体棒，在某些频率下 [#]_ 这根棒会发出声音。
+在由信号发生器馈电的线圈中插入一根铁氧体棒，在某些频率下这根棒会发出声音。
 
 Investigate the phenomenon.
 
 探究这个现象。
 
-从这里开始：磁致伸缩效应 `Magnetostriction <https://en.wikipedia.org/wiki/Magnetostriction>`_
+* 关键词
+	- 磁声换能器（仪器科学）
+	- 磁致伸缩效应（固体物理学）
 
-参考：磁声换能器
+* 从这里开始
+	- 磁致伸缩效应 `Magnetostriction <https://en.wikipedia.org/wiki/Magnetostriction>`_
+
+* 路线
+	- 谐振频率下的现象
+	- 窄带信号的频率响应特性
+	- 宽频带信号下的特性
 
 5. 甜蜜泡影 Sweet Mirage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -69,7 +106,17 @@ Investigate the phenomenon.
 
 探究这个现象。
 
-参考：Greenler R G . `Laboratory simulation of inferior and superior mirages[J]. <https://www.osapublishing.org/josaa/abstract.cfm?uri=JOSAA-4-3-589>`_ Journal of the Optical Society of America A, 1987, 4(3):589-590.
+* 关键词
+	- 折射定律（几何光学）
+	- 折射率梯度（一点点流体力学、热光效应等）
+
+* 参考
+	- Greenler R G . `Laboratory simulation of inferior and superior mirages[J]. <https://www.osapublishing.org/josaa/abstract.cfm?uri=JOSAA-4-3-589>`_ Journal of the Optical Society of America A, 1987, 4(3):589-590.
+
+* 路线
+	- 激光光斑的摩根勒菲蜃景重现
+	- 图像的摩根勒菲蜃景
+	- 摩根勒菲蜃景的控制与应用
 
 6. 萨克逊碗 Saxon Bowl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -81,29 +128,59 @@ Investigate the parameters that determine the time of sinking.
 
 探究决定下沉时间的参量。
 
-起源：Greer A , Kincanon E . `An experiment with Saxon bowls[J]. <https://www.researchgate.net/publication/239045627_An_experiment_with_Saxon_bowls>`_ The Physics Teacher, 2000, 38(2):112-112.
+* 关键词
+	- 浮力（流体力学）
+	- 下沉时间（力学）
+
+* 参考
+	- Greer A , Kincanon E . `An experiment with Saxon bowls[J]. <https://www.researchgate.net/publication/239045627_An_experiment_with_Saxon_bowls>`_ Physics Teacher, 2000, 38(2):112-112.
+
+* 路线
+	- 纵向均匀、底面较大的“萨克逊桶”分析
+	- 纵向非均匀、轴对称的萨克逊碗分析
+	- 纵向非均匀、非轴对称的“萨克逊容器”分析
 
 7. 绳上球 Balls on a String
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Put a string through a ball with a hole in it such that the ball can move freely along the string. Attach another ball to one end of the string. When you move the free end periodically, you can observe complex movements of the two balls.
 
-在绳上串一个能自由移动的球，再固定一个球在绳的一端。当你周期性地移动另一端，就能观察到两个球的复杂运动。
+在绳上串一个能自由移动的球，再固定一个球在绳的末端。当你周期性地移动另一末端，就能观察到两个球的复杂运动。
 
 Investigate the phenomenon.
 
 探究这个现象。
 
-参考：支点驱动的摆问题、参数振动问题、双摆问题。
+* 关键词
+	- 支点振动的摆问题（非线性动力学）
+	- 参数振动（理论力学）
+	- 双摆问题（非线性动力学）
+
+* 路线
+	- 建立数值计算用的模型
+	- 大量的现象观察和现象分类（实验和数值计算）
+	- 从理论上定性解释每类常见现象的机制和特征
+	- 分析各运动模式的动力学稳定性
 
 8. 皂膜筛子 Soap Membrane Filter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A heavy particle may fall through a horizontal soap film without rupturing it. However, a light particle may not penetrate the film and may remain on its surface.
 
-下落的重的颗粒可能穿过一个水平肥皂膜而不弄破它，但轻颗粒则可能渗透不进去而留在其表面上。
+下落的重的颗粒可能穿过一个水平肥皂膜而不弄破它，但轻颗粒则可能穿不过去而留在其表面上。
 
 Investigate the properties of such a membrane filter.
 
 探究这样的一个膜状筛子的性质。
+
+* 关键词
+	- 表面张力、润湿性（介质界面物理）
+
+* 参考
+	- Zou J , Wang W , Ji C , et al. `Droplets passing through a soap film[J]. <http://sci-hub.tw/10.1063/1.4986798>`_ Physics of Fluids, 2017, 29(6):062110.
+
+* 路线
+	- 使用疏水液体进行实验，确定临界质量、临界高度，总结经验规律。
+	- 使用表面能理论分析“反泡泡”的平衡状态，进而得到临界条件。
+	- 考虑润湿作用，使用粗糙固体颗粒实验。
 
 9. 磁悬浮 Magnet Levitation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -115,7 +192,18 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 
 探究搅拌子的动态稳定的起源以及这是如何依赖于相关参量的。
 
-起源：K. A. Baldwin, J.-B. de Fouchier, P. Atkinson, et al. `Magnetic Levitation Stabilized by Streaming Fluid Flows[J]. <https://arxiv.org/pdf/1805.08608.pdf>`_ Physical Review Letters, 2018, 121(6):064502-.
+* 关键词
+	- 粘滞阻力（流体力学）
+	- 磁场分布（电磁场论）
+	- 动力学稳定性（非线性动力学）
+
+* 起源
+	- K. A. Baldwin, J.-B. de Fouchier, P. Atkinson, et al. `Magnetic Levitation Stabilized by Streaming Fluid Flows[J]. <https://arxiv.org/pdf/1805.08608.pdf>`_ Physical Review Letters, 2018, 121(6):064502-.
+
+* 路线
+	- 位于定点的搅拌子的运动分析
+	- 流场、磁场分布分析
+	- 动力学稳定性分析
 
 10. 导电线 Conducting Lines
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -127,7 +215,15 @@ Investigate the characteristics of the conducting line.
 
 探究这根导电的线的特性。
 
-参考：Kurra N , Dutta D , Kulkarni G U . `Field effect transistors and RC filters from pencil-trace on paper[J]. <http://sci-hub.tw/10.1039/C3CP50675D>`_ Physical Chemistry Chemical Physics, 2013, 15(21):8367.
+* 关键词
+	- 伏安特性（固体电子学）
+	- 频率响应特性（固体电子学）
+
+* 参考
+	- Kurra N , Dutta D , Kulkarni G U . `Field effect transistors and RC filters from pencil-trace on paper[J]. <http://sci-hub.tw/10.1039/C3CP50675D>`_ Physical Chemistry Chemical Physics, 2013, 15(21):8367.
+
+* 路线
+	- 对不同铅笔测量不同温度下的阻抗特性，并将结果与某些固体电子论的预测比较。
 
 11. 漂移斑点 Drifting Speckles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -139,8 +235,15 @@ Explain the phenomenon and investigate how the drift depends on relevant paramet
 
 解释此现象并探究漂移是如何依赖于相关参量的。
 
-从这里开始： `知乎：为什么激光光束（或其反射）会看起来有颗粒感？ <https://www.zhihu.com/question/27062939/answer/35097037>`_
+* 关键词
+	- 漫反射（几何光学）
+	- 干涉（波动光学）
 
+* 从这里开始
+	- `知乎：为什么激光光束（或其反射）会看起来有颗粒感？ <https://www.zhihu.com/question/27062939/answer/35097037>`_
+
+* 路线
+	- 用随机表面模型解释光强分布的改变，并通过统计方法给出预言。
 
 12. 多边形旋涡 Polygon Vortex
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -152,7 +255,16 @@ Explain this phenomenon and investigate the dependence on the relevant parameter
 
 解释这个现象并探究其与相关参量的依赖关系。
 
-起源：Jansson T R N , Haspang M P , Jensen K H , et al. `Polygons on a Rotating Fluid Surface[J]. <https://arxiv.org/pdf/physics/0511251.pdf>`_ Physical Review Letters, 2006, 96(17):174502.
+* 关键词
+	- 旋转中的液体（流体力学）
+	- 流体力学对称性破缺（场论）
+
+* 参考
+	- Jansson T R N , Haspang M P , Jensen K H , et al. `Polygons on a Rotating Fluid Surface[J]. <https://arxiv.org/pdf/physics/0511251.pdf>`_ Physical Review Letters, 2006, 96(17):174502.
+
+* 路线
+	- 进行实验和数值计算，绘制相图(Phase Diagram)。
+	- 尝试给出关于液体表面形状的泛函极值形式规律，进而解释对称性破缺、计算“吸引域”。
 
 13. 摩擦振子 Friction Oscillator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -164,25 +276,56 @@ Investigate how the motion of the object on the cylinders depends on the relevan
 
 探究圆柱上物体的运动如何依赖于相关参量。
 
+* 关键词
+	- 滚动摩擦（摩擦学）
+	- 振动（力学）
+
+* 路线
+	- 搭建一系列装置，观察实验现象，分析现象。
+	- 建立运动方程，进行数值计算，测试模型有效性。
+	- 通过运动方程计算运动的特征量与参量的关系，并与实验、仿真比对。
+
 14. 下落的塔 Falling Tower
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Identical discs are stacked one on top of another to form a freestanding tower. The bottom disc can be removed by applying a sudden horizontal force such that the rest of the tower will drop down onto the surface and the tower remains standing.
 
-把相同的圆盘摞起来以形成一个自立式的塔。底部的圆盘能通过施加一个突然的水平力来去除，同时保持塔的剩余部分立着坐落在桌面上。
+把相同的圆盘摞起来以形成一个自立式的塔。底部的圆盘能通过施加一个突然 [#]_ 的水平力来去除，同时 [#]_ 保持塔的剩余部分立着坐落在桌面上。
 
 Investigate the phenomenon and determine the conditions that allow the tower to remain standing.
 
 探究此现象并确定使允许塔保持直立的条件。
 
+* 关键词
+	- 摩擦（摩擦学）、碰撞（弹性力学）、静力学稳定性（静力学）
+
+* 路线
+	- 在不同的装置参数下进行实验观察，寻找与真实移除过程相符的物理过程模型。
+	- 假定一类外力的形式，并计算其参数对塔的某些物理量能造成的影响。
+	- 建立衡量塔直立的难易程度的方式，找出临界条件。
+
 15. 胡椒罐子 Pepper Pot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you take a salt or pepper pot and just shake it, the contents will pour out relatively slowly. However, if an object is rubbed along the bottom of the pot, then the rate of pouring can increase dramatically.
 
-仅通过摇动调料盒来倒出内容物是相对较慢的，如果有一个物体在罐子底部摩擦则能戏剧性地增大倾倒的速率。
+仅通过摇动调料瓶来倒出内容物 [#]_ 是相对较慢的，如果有一个物体在罐子底部摩擦则能戏剧性地增大倾倒的速率。
 
 Explain this phenomenon and investigate how the rate depends on the relevant parameters.
 
 解释这个现象并探究这个速率如何依赖于相关参量。
+
+* 关键词
+	- 通过小孔的颗粒流问题
+	- 拱桥效应的稳定性（颗粒力学、颗粒的统计力学）
+
+* 参考
+	- Beverloo W A , Leniger H A , Velde J V D . `The flow of granular solids through orifices[J]. <http://sci-hub.tw/10.1016/0009-2509(61)85030-6>`_ Chemical Engineering Science, 1961, 15(3-4):260-269.
+	- Tang J , Sadighpour S , Behringer R . `Jamming of Granular Flow in a Two-Dimensional Hopper[J] <http://www.physics.emory.edu/faculty/weeks/lab/papers/To_PRL_01.pdf>`_ Physical Review Letters, 2001, 86(1):71-74.
+	- 更多可能有用的参考文献，可以参考 Liu Q Y , Yang G C , Hu M B , et al. Optimization of Granular Chute Flow with Two Bottlenecks[J]. Applied Mechanics and Materials, 2014, 487:532-535. 一文的 *Reference* 。
+
+* 路线
+	- 利用现有模型计算流速，通过实验给出经验修正。
+	- 建立颗粒统计力学模型，计算外界驱动激发的粒子数。
+	- 建立描述摩擦行为的模型，尝试解释实验。
 
 16. 镍钛引擎 Nitinol Engine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -194,7 +337,16 @@ Investigate the properties of such an engine.
 
 探究这样的一个发动机的性质。
 
-参考：Cho H , Takeda Y , Sakuma T . `Fabrication and Output Power Characteristics of Heat-Engines Using Tape-Shaped SMA Element[J]. <http://sci-hub.tw/10.1007/978-3-319-53306-3_1>`_ 2017. in Sun Q , Matsui R , Takeda K , et al. Advances in Shape Memory Materials[J]. Advanced Structured Materials, 2017.
+* 关键词
+	- 形状记忆效应（固体物理）
+	- 发动机性能（一点点机械动力知识）
+
+* 参考
+	- Cho H , Takeda Y , Sakuma T . `Fabrication and Output Power Characteristics of Heat-Engines Using Tape-Shaped SMA Element[J]. <http://sci-hub.tw/10.1007/978-3-319-53306-3_1>`_ 2017. in Sun Q , Matsui R , Takeda K , et al. Advances in Shape Memory Materials[J]. Advanced Structured Materials, 2017.
+
+* 路线
+	- 寻找/建立相变时的应力等物理量的表达式，用于计算转矩、转速。
+	- 与实验相对比，计算能量效率、最佳工作温度区间等性能指标。
 
 17. 纸牌 Playing Card
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -206,17 +358,23 @@ Investigate the parameters that affect the distance and the trajectory.
 
 探究影响距离和轨迹的参量。
 
-从这里开始：陀螺效应、 `空气阻力 <https://en.wikipedia.org/wiki/Drag_(physics)>`_
+* 从这里开始
+	- 陀螺效应
+	- `空气阻力 <https://en.wikipedia.org/wiki/Drag_(physics)>`_
 
-参考：任何一本理论力学教材的刚体定轴转动问题、朗道《力学》 [#]_
+* 参考
+	- 任何一本理论力学教材的刚体定轴转动问题、朗道《力学》 [#]_
 
-.. [#] *limits* 一词也可能特指 *检出限(detection limit)* 等概念，但那样的话不应写复数形式。也可能指装置性能的理论极限，但那样的话不应与 *accuracy, precision* 并列。
+* 路线
+	- 练绝技（笑）
+	- 分析飞行过程的角动量方向偏移量、方向偏转造成的压差阻力。
+	- 分析强阻力下的飞行。
+
+.. [#] *limits* 一词也可能特指 *检出限(detection limit)* 等概念，但那样的话不应写复数形式。也可能指装置性能的理论极限，但那样的话不应与 *accuracy, precision* 并列。此处可以理解为对电路的影响这类的局限性。
 
 .. [#] 原文 *spin* 似乎强调绕质心的自转是现象的关键，但标题 *swinging* 似乎强调着转动是以管的一端为瞬心的。
 
-.. [#] 原文Ferrite应译为铁氧体。硬铁氧体多用于作为磁铁，而软铁氧体多用于作为磁珠，但它们都是铁磁性的，除矫顽力不同之外无根本不同，铁氧体永磁体也仍是永磁体中的一大类。考虑这一词在生活中不常用，故以“磁铁”这一有代表性的印象代替。
-
-.. [#] 原文使用 *at* ，这或许意味着单频信号足以引起现象。
+.. [#] 原文Ferrite应译为铁氧体。硬磁铁氧体用于作为磁铁，而软磁铁氧体用于作为磁珠（铁芯），但它们都是铁磁性的，除矫顽力不同之外无根本不同。考虑铁氧体一词在生活中不常用，故根据题意以“铁芯”这一有代表性的印象代替（但实际铁芯确实是片状硅钢制成的）。
 
 .. [#] 在关于亚瑟王的西方神话传说中，摩根勒菲是一名女性巫师的名字，也用于指代她用巫术所创造的空中城堡幻象。
 
@@ -224,9 +382,15 @@ Investigate the parameters that affect the distance and the trajectory.
 
 .. [#] 原文 *massive object* 也可能指一般的有质量的物体，但考虑为较重的物体对本题的研究是有特别意义的。
 
+.. [#] 可能指仅在造成可见位移之前有力的作用，也可能只是指移出底部砖块耗时很短。
+
+.. [#] 可能仅指落下的瞬间，故塔的上方被震倒的情况或许可以不作考虑。
+
+.. [#] 注意题目原文并未限定内容物是什么， *salt or pepper* 仅仅是用于对容器的说明。
+
 .. [#] 不同规则、不同地域的标准是有些不同的，但这对研究的意义并无影响，因为这个条件的存在只是为了把研究范围限定在可手持的纸牌的范围内。
 
-.. [#] 如果你真的渴望力量，请参考：马尔契夫《理论力学》。
+.. [#] 如果你真的渴望力量，请参考马尔契夫《理论力学》。
 
 -------------
 启发性问题
