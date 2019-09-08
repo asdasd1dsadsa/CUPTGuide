@@ -42,14 +42,14 @@ Explain the phenomenon.
 解释这个现象。
 
 * 关键词
-	- 圆柱体绕流问题（流体力学）
+	- 不同边界条件下的圆柱体绕流问题（流体力学）
 
 * 从这里开始
 	- 宽德效应 `Coandă Effect <https://en.wikipedia.org/wiki/Coandă_effect>`_
 	- 蜡烛是如何被吹灭的？
 
 * 路线
-	- 进行不同气流流速、口径、距离、角度的定常流场分析，并借此预测吹灭蜡烛的难易程度。
+	- 进行对不同瓶子的不同气流流速、口径、距离、角度的定常流场分析，并借此预测吹灭蜡烛的难易程度。
 
 3. 摇摆声管 Swinging Sound Tube
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -129,7 +129,7 @@ Investigate the parameters that determine the time of sinking.
 探究决定下沉时间的参量。
 
 * 关键词
-	- 浮力（流体力学）
+	- 浮力、粘滞阻力（流体力学）
 	- 下沉时间（力学）
 
 * 参考
@@ -195,7 +195,7 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 * 关键词
 	- 粘滞阻力（流体力学）
 	- 磁场分布（电磁场论）
-	- 动力学稳定性（非线性动力学）
+	- 动力学稳定性（力学）
 
 * 起源
 	- K. A. Baldwin, J.-B. de Fouchier, P. Atkinson, et al. `Magnetic Levitation Stabilized by Streaming Fluid Flows[J]. <https://arxiv.org/pdf/1805.08608.pdf>`_ Physical Review Letters, 2018, 121(6):064502-.
@@ -331,7 +331,7 @@ Explain this phenomenon and investigate how the rate depends on the relevant par
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Place a nitinol wire loop around two pulleys with their axes located at some distance from each other. If one of the pulleys is immersed into hot water, the wire tends to straighten, causing a rotation of the pulleys.
 
-在两个有一定轴距的相同滑轮上绕一根镍钛丝。如果将其中一个滑轮浸入热水，镍钛丝就会趋向于伸直而使得滑轮转动。
+在两个有一定轴距的滑轮上绕一根镍钛丝。如果将其中一个滑轮浸入热水，镍钛丝就会趋向于伸直而使得滑轮转动。
 
 Investigate the properties of such an engine.
 
