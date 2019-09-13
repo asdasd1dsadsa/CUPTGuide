@@ -7,7 +7,7 @@
 ----------------------------
 我提供的中文翻译和注解仅供参考。翻译的原则是：在中英文的分句能一一对应的前提下，标题尽量还原词汇的背景含义和艺术性（而可能与题目内容关系并不密切），现象描述部分尽量亲切地表述原文最可能要指代的现象（而可能导致含义变得狭窄），任务指定部分尽量保持原意（而不限定任何题意理解和研究的方向）。
 
-我提供某些文献，可能是出于希望读者学习其方法，也可能是因为其参考文献、印证文献的列表有较大的参考价值，但读者不一定一开始就适合阅读它们。我指出的研究领域和方向很可能不正确或是不准确，且仅建议在完全不知所措时参考，否则会错过锤炼信息搜寻能力、积累见闻的机会，而且即便方向正确，它们也不一定适合读者去试，因为它们基于学术上的价值取向而非竞赛的价值取向。
+我提供某些文献，可能是出于希望读者学习其方法，也可能是因为其参考文献、印证文献的列表有较大的参考价值，但读者不一定一开始就适合阅读它们。我指出的研究领域和方向很可能不正确或是不准确，且仅建议在完全不知所措时参考，否则会错过锤炼信息搜寻能力、积累见闻的机会，而且即便方向正确，它们也不一定适合读者去试，因为它们基于某些学术上的价值取向而非不利于竞赛成绩的价值取向。
 
 1. 自己发明 Invent Yourself
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -55,7 +55,7 @@ Explain the phenomenon.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A Sound Tube is a toy, consisting of a corrugated plastic tube, that you can spin around to produce sounds.
 
-声管是一种由一根塑料波纹管构成的玩具，旋转 [#]_ 它能产生声音。
+声管是一种由一根塑料波纹管构成的玩具，旋转 [#]_ 它就能产生声音。
 
 Study the characteristics of the sounds produced by such toys, and how they are affected by the relevant parameters.
 
@@ -122,7 +122,7 @@ Investigate the phenomenon.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A bowl with a hole in its base will sink when placed in water. The Saxons used this device for timing purposes.
 
-一个底部有洞的碗会在水中下沉，萨克逊人用这装置计时。
+一个底部有洞的碗在水中会下沉，萨克逊人曾使用这装置计时。
 
 Investigate the parameters that determine the time of sinking.
 
@@ -195,7 +195,7 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 * 关键词
 	- 粘滞阻力（流体力学）
 	- 磁场分布（电磁场论）
-	- 动力学稳定性（力学）
+	- 动力学稳定性 [#]_ （力学）
 
 * 起源
 	- K. A. Baldwin, J.-B. de Fouchier, P. Atkinson, et al. `Magnetic Levitation Stabilized by Streaming Fluid Flows[J]. <https://arxiv.org/pdf/1805.08608.pdf>`_ Physical Review Letters, 2018, 121(6):064502-.
@@ -229,7 +229,7 @@ Investigate the characteristics of the conducting line.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Shine a laser beam onto a dark surface. A granular pattern can be seen inside the spot. When the pattern is observed by a camera or the eye, that is moving slowly, the pattern seems to drift relative to the surface.
 
-向暗表面上照一束激光，可以在光斑内部看到颗粒状图案。用人眼或相机观察时它是缓慢运动着的，看着就像图案在相对表面运动一样。
+向暗表面上照一束激光，在光斑内部可以看到颗粒状图案。用人眼或相机观察时，它是缓慢运动着的，看着就像图案在相对表面运动一样。
 
 Explain the phenomenon and investigate how the drift depends on relevant parameters.
 
@@ -249,7 +249,7 @@ Explain the phenomenon and investigate how the drift depends on relevant paramet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A stationary cylindrical vessel containing a rotating plate near the bottom surface is partially filled with liquid. Under certain conditions, the shape of the liquid surface becomes polygon-like.
 
-一个静止圆柱管的底部是一个转盘，内部空间中有一部分填充着液体。在特定条件下，液体的表面变得像多边形一样。
+一个静止圆柱管的底部是一个转盘，内部空间中有一部分填充着液体。在特定条件下，液体的表面会变得像多边形一样。
 
 Explain this phenomenon and investigate the dependence on the relevant parameters.
 
@@ -358,9 +358,9 @@ Investigate the parameters that affect the distance and the trajectory.
 
 探究影响距离和轨迹的参量。
 
-* 从这里开始
-	- 陀螺效应
-	- `空气阻力 <https://en.wikipedia.org/wiki/Drag_(physics)>`_
+* 关键词/从这里开始
+	- 陀螺效应（刚体力学）
+	- `空气阻力 <https://en.wikipedia.org/wiki/Drag_(physics)>`_ （流体力学）
 
 * 参考
 	- 任何一本理论力学教材的刚体定轴转动问题、朗道《力学》 [#]_
@@ -379,6 +379,8 @@ Investigate the parameters that affect the distance and the trajectory.
 .. [#] 在关于亚瑟王的西方神话传说中，摩根勒菲是一名女性巫师的名字，也用于指代她用巫术所创造的空中城堡幻象。
 
 .. [#] 看上去， *similar* 一词相当含糊，仿佛意味着各种各样的蜃景都可以是研究对象。实际上，狭义的 *Fata Morgana* 仅指某一类复杂蜃景，它相似于一般的上现蜃景，但它在竖直方向上包含多幅图像、或者说一系列图像）。具体可以参考 Young A T , Frappa E . `Mirages at Lake Geneva: the Fata Morgana[J]. <http://sci-hub.tw/10.1364/ao.56.000g59>`_ Applied Optics, 2017, 56(19):G59.
+
+.. [#] 注意这里说的动力学稳定性（Dynamics Stability）与题目中的动态稳定（dynamic stablization）不是同一概念！
 
 .. [#] 原文 *massive object* 也可能指一般的有质量的物体，但考虑为较重的物体对本题的研究是有特别意义的。
 
