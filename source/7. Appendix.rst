@@ -279,7 +279,7 @@ Explain this phenomenon and investigate the dependence on the relevant parameter
 
 解释这个现象并探究其与相关参量的依赖关系。
 
-.. image:: http://stemfellowship.org/wp-content/uploads/2019/07/2-Figure1-1.jpg
+.. image:: image/12.jpg
 
 * 关键词
 	- 旋转中的液体（流体力学）

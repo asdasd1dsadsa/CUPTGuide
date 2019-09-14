@@ -8,11 +8,11 @@
 
 最近更新于2019年9月13日，更新了 **2020年竞赛题目与试析** 、 **竞赛主要相关资料来源** 部分。
 
+如有反馈意见请从右上角链接前往Github的Issues页面，也欢迎fork。
+
 .. toctree::
     :maxdepth: 2
     :caption: 目录
     :glob:
 
     *
-
-如有反馈意见请从右上角链接前往Github的Issues页面，也欢迎fork。
