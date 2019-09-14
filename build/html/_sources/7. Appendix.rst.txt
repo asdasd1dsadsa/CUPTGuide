@@ -2,394 +2,186 @@
 附录
 ===========
 
-----------------------------
-2020年竞赛题目与试析
-----------------------------
-我提供的中文翻译和注解仅供参考。翻译的原则是：在中英文的分句能一一对应的前提下，标题尽量还原词汇的背景含义和艺术性（而可能与题目内容关系并不密切），现象描述部分尽量亲切地表述原文最可能要指代的现象（而可能导致含义变得狭窄），任务指定部分尽量保持原意（而不限定任何题意理解和研究的方向）。
+--------------
+2019年竞赛题目
+--------------
+我提供的中文翻译仅供参考。
 
-我提供某些文献，可能是出于希望读者学习其方法，也可能是因为其参考文献、印证文献的列表有较大的参考价值，但读者不一定一开始就适合阅读它们。我指出的研究领域和方向很可能不正确或是不准确，且仅建议在完全不知所措时参考，否则会错过锤炼信息搜寻能力、积累见闻的机会，而且即便方向正确，它们也不一定适合读者去试，因为它们基于某些学术上的价值取向而非不利于竞赛成绩的价值取向。对于比赛，自圆其说永远比实验与理论不相符要好。
-
-寻找更多资料，可以访问：http://stemfellowship.org/iypt-2020-references-2/。
-
-1. 自己发明 Invent Yourself
+1. 自己发明 Invent yourself
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Design an instrument for measuring current using its heating effect.
+Build a simple motor whose propulsion is based on corona discharge.
 
-设计一个通过电流热效应来测量电流的装置。
+制作一个动力源于电晕放电的简单马达。
 
-What are the accuracy, precision and limits of the method?
+Investigate how the rotor’s motion depends on relevant parameters and optimize your design for maximum speed at a fixed input voltage.
 
-这种方法的准确性、精密性、局限性 [#]_ 如何？
+调查转子的运动与相关参量的依赖关系，并在恒定的输入电压下使速度最大化。
 
-* 关键词
-	- 电流传感器（仪器科学、电路学）
-	- （固体的）焦耳效应（固体电子学）
-	- 发热功率的统计（热学）
-
-* 路线
-	- 电路与电热器件设计：根据电路中信号的类型，在尽量增大发热量的同时尽量降低发热对电路中信号的影响。
-	- 热功率测量：响应快（时间分辨率高）、低系统误差、易定标的热传感器。
-	- 分析你所采用的这类设计各方面的理论极限。
-
-2. 低调的瓶子 Inconspicuous Bottle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Put a lit candle behind a bottle. If you blow on the bottle from the opposite side, the candle may go out, as if the bottle was not there at all.
-
-在瓶子后方放一个点燃的蜡烛，在瓶子的前方对瓶子吹气可能会导致蜡烛熄灭，如同瓶子根本不在那儿一样。
-
-Explain the phenomenon.
-
-解释这个现象。
-
-* 关键词
-	- 不同边界条件下的圆柱体绕流问题（流体力学）
-
-* 从这里开始
-	- 宽德效应 `Coandă Effect <https://en.wikipedia.org/wiki/Coandă_effect>`_
-	- 蜡烛是如何被吹灭的？
-
-* 高手示范
-	- M Trancossi, A Dumas, D Vucinic. `Mathematical Modeling of Coanda Effect. <https://www.researchgate.net/publication/289830815_Mathematical_Modeling_of_Coanda_Effect>`_ SAE Technical Papers, 2013, 10.4271/2013-01-2195. 
-
-* 路线
-	- 进行对不同瓶子的不同气流流速、口径、距离、角度的定常流场分析，并借此预测吹灭蜡烛的难易程度。
-
-3. 摇摆声管 Swinging Sound Tube
+2. 烟雾 Aerosol
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A Sound Tube is a toy, consisting of a corrugated plastic tube, that you can spin around to produce sounds.
 
-声管是一种由一根塑料波纹管构成的玩具，旋转 [#]_ 它就能产生声音。
+When water flows through a small aperture, an aerosol may be formed.
 
-Study the characteristics of the sounds produced by such toys, and how they are affected by the relevant parameters.
+当水流过一个小孔，可能有烟雾形成。
 
-研究这样的玩具所发出的声音的特性，以及这些特性是如何被相关参量所影响的。
+Investigate the parameters that determine whether an aerosol is formed rather than a jet for example.
 
-* 关键词
-	- 声驻波（声学）
-	- 惯性力引起的弯曲（连续体力学）
-	- 惯性力引起的气流（流体力学）
+调查决定烟雾形成与否的参量（比如，可能生成的是射流而非烟雾）。
 
-* 从这里开始
-	- `Whirly Tube <https://en.wikipedia.org/wiki/Whirly_tube>`_
-	- Amorim M E , Sousa T D , Carvalho P S , et al. `A Simple Experiment to Explore Standing Waves in a Flexible Corrugated Sound Tube[J]. <http://sci-hub.tw/10.1119/1.3628265>`_ Physics Teacher, 2011, 49(6):360.
+What are the properties of the aerosol?
 
-* 路线
-	- 旋转中的波纹管形状
-	- 旋转中的波纹管中的气体流动
-	- 波纹管中的声音
+烟雾的性质有哪些？
 
-4. 唱歌的铁芯 [#]_ Singing Ferrite
+3. 低音 Undertone Sound
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Allow a tuning fork or another simple oscillator to vibrate against a sheet of paper with a weak contact between them. The frequency of the resulting sound can have a lower frequency than the tuning fork’s fundamental frequency.
+
+让音叉或者其他简单的振子轻微地接触着一片纸振动，如此产生的声音的频率可能略低于音叉的基频。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+4. 漏斗与球 Funnel and Ball
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A light ball (e.g. ping-pong ball) can be picked up with a funnel by blowing air through it.
+
+一个轻球（如乒乓球）可以用漏斗吹气的方式捡起来。
+
+Explain the phenomenon and investigate the relevant parameters.
+
+解释这个现象并调查有关的参量。
+
+5. 倒水壶 Filling Up a Bottle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a vertical water jet enters a bottle, sound may be produced, and, as the bottle is filled up, the properties of the sound may change.
+
+当水流竖直进入瓶子，可能会产生声音。随着瓶子被装满，声音的性质可能发生改变。
+
+Investigate how relevant parameters of the system such as speed and dimensions of the jet, size and shape of the bottle or water temperature affect the sound.
+
+调查系统的相关参量（如水流的速度和尺寸、瓶子的形状尺寸、水温等）如何影响声音。
+
+6. 飓风球 Hurricane Balls
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Two steel balls that are joined together can be spun at incredibly high frequency by first spinning them by hand and then blowing on them through a tube, e.g. a drinking straw.
+
+用手让两个连接的钢球转起来，然后用管子向它们吹气，它们能以难以置信的频率旋转。
+
+Explain and investigate this phenomenon.
+
+解释并研究此现象。
+
+7. 大声 Loud Voices
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A simple cone-shaped or horn-shaped object can be used to optimise the transfer of the human voice to a remote listener.
+
+一个简单的锥形或角状的物体可以用于优化人声的远程传送。
+
+Investigate how the resulting acoustic output depends on relevant parameters such as the shape, size, and material of the cone.
+
+研究结果的声输出是如何依赖于相关参量（如锥的形状、尺寸、材料）的。
+
+8. 科幻之声 Sci-Fi Sound
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tapping a helical spring can make a sound like a “laser shot” in a science-fiction movie.
+
+轻拍一个盘簧能产生类似科幻电影中激光枪的射击声。
+
+Investigate and explain this phenomenon.
+
+研究并解释此现象。
+
+9. 酱油光学 Soy Sauce Optics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Using a laser beam passing through a thin layer (about 200 μm) of soy sauce the thermal lens effect can be observed.
+
+让激光束通过一层薄酱油（约200微米），可以观察到热透镜效应。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+10. 悬空水轮 Suspended Water Wheel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Insert a ferrite rod into a coil fed from a signal generator. At some frequencies, the rod begins to produce a sound.
+Carefully place a light object, such as a Styrofoam disk, near the edge of a water jet aiming upwards. Under certain conditions, the object will start to spin while being suspended.
 
-在由信号发生器馈电的线圈中插入一根铁氧体棒，在某些频率下这根棒会发出声音。
+在一束向上的水流的边缘小心地放置一个轻物体（如泡沫塑料盘）。在特定条件下，物体会在悬浮中自旋。
+
+Investigate this phenomenon and its stability to external perturbations.
+
+研究此现象及其对外界扰动的稳定性。
+
+11. 平面上的自组织 Flat Self-Assembly
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Put a number of identical hard regular-shaped particles in a flat layer on top of a vibrating plate. Depending on the number of particles per unit area, they may or may not form an ordered crystal-like structure. Investigate the phenomenon.
+
+在一个振动的盘子的平整表面上放置一定数量相同的硬而形状规则的粒子。依赖于单位面积上粒子的数量，它们可能、或者不可能形成有序的晶状结构。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+12. 陀螺磁场计 Gyroscope Teslameter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A spinning gyroscope made from a conducting, but nonferromagnetic material slows down when placed in a magnetic field.
+
+一个由导电但非铁磁性的材料制成的陀螺在磁场中旋转时会减速。
+
+Investigate how the deceleration depends on relevant parameters.
+
+研究减速的加速度如何依赖于相关参量。
+
+13. 莫尔线计数器 Moiré Thread Counter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a pattern of closely spaced non-intersecting lines (with transparent gaps in between) is overlaid on a piece of woven fabric, characteristic Moiré fringes may be observed. Design an overlay that allows you to measure the thread count of the fabric.
+
+当不交叉的直线（其间有透明的间隙）紧密排布而成的一种图样覆盖于编织物之上时，可以观察到特征的摩尔条纹。设计一种允许你测量编织物上丝线数目的图案。
+
+Determine the accuracy for simple fabrics (e.g. linen) and investigate if the method is reliable for more complex fabrics (e.g. denim or Oxford cloth).
+
+确定对于简单编织物（如麻布）的精度，并调查对于更复杂的编织物（如牛仔布、牛津布）这个方法是否可靠。
+
+14. 回转摆 Looping Pendulum
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Connect two loads, one heavy and one light, with a string over a horizontal rod and lift up the heavy load by pulling down the light one. Release the light load and it will sweep around the rod, keeping the heavy load from falling to the ground.
+
+用跨过水平杆的绳子连接一轻一重两个负载，并通过下拉轻的负载来提起重的负载。释放轻的负载，它将绕着杆扫动，从而使重的负载不落地。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+15. 牛顿摇篮 Newton’s Cradle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The oscillations of a Newton’s cradle will gradually decay until the spheres come to rest.
+
+牛顿摇篮的振动会逐渐衰减直到球体静止。
+
+Investigate how the rate of decay of a Newton’s cradle depends on relevant parameters such as the number, material, and alignment of the spheres.
+
+调查牛顿摇篮的衰减速率与相关参量（如球体的数量、材料、排布）的依赖关系。
+
+16. 下沉的气泡 Sinking Bubbles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a container of liquid (e.g. water) oscillates vertically, it is possible that bubbles in the liquid move downwards instead of rising.
+
+当液体（比如水）容器竖直振荡，液体中的气泡可能下降而非上升。
+
+Investigate this phenomenon.
+
+研究此现象。
+
+17. 冰棍柄链反应 Popsicle Chain Reaction
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Wooden popsicle sticks can be joined together by slightly bending each of them so that they interlock in a so-called “cobra weave” chain. When such a chain has one of its ends released, the sticks rapidly dislodge, and a wave front travels along the chain.
+
+木制的冰棍柄可以被弯曲从而连接起来，互相锁住而形成所谓的“眼镜蛇编织”锁链。当这样的链条有一端被释放，棍子会迅速散架，而一个波前会在链中传导。
 
 Investigate the phenomenon.
 
-探究这个现象。
-
-* 关键词
-	- 磁声换能器（仪器科学）
-	- 磁致伸缩效应（固体物理学）
-
-* 从这里开始
-	- 磁致伸缩效应 `Magnetostriction <https://en.wikipedia.org/wiki/Magnetostriction>`_
-	- Selim Yürekten, Yunus Sert, Miroslav Trnan, Enis Ceylan. `The Parameters of Generated Sound Level of Transformer Cores. <http://www.sciencedirect.com/science/article/pii/S1877705817342534 > `_ Procedia Engineering, 2017, 202:273-279.
-
-* 路线
-	- 换信号：谐振频率下的现象、窄带信号的频率响应特性、宽频带信号下的特性
-	- 换材料：各向同性/各向异性铁磁介质
-
-5. 甜蜜泡影 Sweet Mirage
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Fata Morgana is the name given to a particular form of mirage. A similar effect can be produced by shining a laser through a fluid with a refractive index gradient.
-
-`摩根勒菲 <https://wikipedia.sogou.se/wiki/摩根勒菲>`_ [#]_ 是蜃景的一种特殊形式的名称。类似的现象 [#]_ 可以通过让一束激光通过折射率有梯度的流体来制造。
-
-Investigate the phenomenon.
-
-探究这个现象。
-
-* 关键词
-	- 折射定律（几何光学）
-	- 折射率梯度（一点点流体力学、热光效应等）
-
-* 从这里开始
-	- Young A T , Frappa E . `Mirages at Lake Geneva: the Fata Morgana[J]. <http://sci-hub.tw/10.1364/ao.56.000g59>`_ Applied Optics, 2017, 56(19):G59.
-
-* 路线
-	- 激光光斑的摩根勒菲蜃景重现
-	- 图像的摩根勒菲蜃景
-	- 摩根勒菲蜃景的控制与应用
-
-6. 萨克逊碗 Saxon Bowl
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A bowl with a hole in its base will sink when placed in water. The Saxons used this device for timing purposes.
-
-一个底部有洞的碗在水中会下沉，萨克逊人曾使用这装置计时。
-
-Investigate the parameters that determine the time of sinking.
-
-探究决定下沉时间的参量。
-
-* 关键词
-	- 浮力、泊肃叶流动（流体力学）
-	- 动力学方程的逆函数（力学）
-
-* 从这里开始
-	- `StackExchange Physics: What physics equation can be used to describe the saxon bowl experiment? <https://physics.stackexchange.com/questions/416112/what-physics-equation-can-be-used-to-describe-the-saxon-bowl-experiment>`_
-	- `Ilinblog <http://ilinblog.ru/article.php?id_article=58>`_
-	- Greer A , Kincanon E . `An experiment with Saxon bowls[J]. <https://www.researchgate.net/publication/239045627_An_experiment_with_Saxon_bowls>`_ Physics Teacher, 2000, 38(2):112-112.
-
-* 路线
-	- 通过流体力学确定小孔流量的表达式
-	- 受力分析给出动力学方程，并将时间看作位置的函数积分
-
-7. 绳上球 Balls on a String
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Put a string through a ball with a hole in it such that the ball can move freely along the string. Attach another ball to one end of the string. When you move the free end periodically, you can observe complex movements of the two balls.
-
-在绳上串一个能自由移动的球，再固定一个球在绳的末端。当你周期性地移动另一末端，就能观察到两个球的复杂运动。
-
-Investigate the phenomenon.
-
-探究这个现象。
-
-* 关键词
-	- 支点振动的摆问题（非线性动力学）
-	- 参数振动（理论力学）
-	- 双摆问题（非线性动力学）
-
-* 从这里开始
-	- `Astrojax <https://en.wikipedia.org/wiki/Astrojax>`_
-
-* 高手示范
-	- Philip Du Toit. `The Astrojax Pendulum and the N-Body Problem on the Sphere: A study in reduction, variational integration, and pattern evocation. <http://www.cds.caltech.edu/~marsden/wiki/uploads/projects/geomech/Dutoit2005.pdf>`_ Student Projects in Marsden Research Projects, 2005.
-
-* 路线
-	- 建立数值计算用的模型
-	- 大量的现象观察和现象分类（实验和数值计算）
-	- 从理论上定性解释每类常见现象的机制和特征
-	- 分析各运动模式的动力学稳定性
-
-8. 皂膜筛子 Soap Membrane Filter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A heavy particle may fall through a horizontal soap film without rupturing it. However, a light particle may not penetrate the film and may remain on its surface.
-
-下落的重的颗粒可能穿过一个水平肥皂膜而不弄破它，但轻颗粒则可能穿不过去而留在其表面上。
-
-Investigate the properties of such a membrane filter.
-
-探究这样的一个膜状筛子的性质。
-
-* 关键词
-	- 表面张力、润湿性（介质界面物理）
-
-* 高手示范
-	- BB Stogin, L Gockowski, H Feldstein, H Claure, J Wang, TS Wong. `Free-standing liquid membranes as unusual particle separators[J]. <https://advances.sciencemag.org/content/4/8/eaat3276>`_ Science Advances, 2018, 4(8):eaat3276.
-
-9. 磁悬浮 Magnet Levitation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Under certain circumstances, the “flea” of a magnetic stirrer can rise up and levitate stably in a viscous fluid during stirring.
-
-在特定条件下，粘性液体中的搅拌子会在搅拌时升起并稳定悬浮。
-
-Investigate the origins of the dynamic stabilization of the “flea” and how it depends on the relevant parameters.
-
-探究搅拌子的动态稳定的起源以及这是如何依赖于相关参量的。
-
-* 关键词
-	- 粘滞阻力（流体力学）
-	- 磁场分布（电磁场论）
-	- 动力学稳定性 [#]_ （力学）
-
-* 高手示范
-	- K. A. Baldwin, J.-B. de Fouchier, P. Atkinson, et al. `Magnetic Levitation Stabilized by Streaming Fluid Flows[J]. <https://arxiv.org/pdf/1805.08608.pdf>`_ Physical Review Letters, 2018, 121(6):064502-.
-
-* 路线
-	- 位于定点的搅拌子的运动分析
-	- 流场、磁场分布分析
-	- 动力学稳定性分析
-
-10. 导电线 Conducting Lines
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A line drawn with a pencil on paper can be electrically conducting.
-
-铅笔在纸上画的一根线是电导性的。
-
-Investigate the characteristics of the conducting line.
-
-探究这根导电的线的特性。
-
-* 关键词
-	- 伏安特性（固体电子学）
-	- 频率响应特性（固体电子学）
-
-* 特别提醒
-	- Kurra N , Dutta D , Kulkarni G U . `Field effect transistors and RC filters from pencil-trace on paper[J]. <http://sci-hub.tw/10.1039/C3CP50675D>`_ Physical Chemistry Chemical Physics, 2013, 15(21):8367.
-
-* 路线
-	- 了解不同铅笔的石墨含量，以及石墨密度对导电性的影响。
-	- 对不同铅笔测量不同温度下的阻抗特性，并将结果与某些固体电子论的预测比较。
-
-11. 漂移斑点 Drifting Speckles
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Shine a laser beam onto a dark surface. A granular pattern can be seen inside the spot. When the pattern is observed by a camera or the eye, that is moving slowly, the pattern seems to drift relative to the surface.
-
-向暗表面上照一束激光，在光斑内部可以看到颗粒状图案。用人眼或相机观察时，它是缓慢运动着的，看着就像图案在相对表面运动一样。
-
-Explain the phenomenon and investigate how the drift depends on relevant parameters.
-
-解释此现象并探究漂移是如何依赖于相关参量的。
-
-* 关键词
-	- 漫反射（几何光学）
-	- 干涉（波动光学）
-
-* 从这里开始
-	- `知乎：为什么激光光束（或其反射）会看起来有颗粒感？ <https://www.zhihu.com/question/27062939/answer/35097037>`_
-
-* 高手示范
-	- Duncan D , Kirkpatrick S . `Algorithms for simulation of speckle (laser and otherwise)[C]. <https://www.researchgate.net/publication/233783056_Algorithms_for_simulation_of_speckle_laser_and_otherwise>`_ Spie-bios Photonics West. 2008.
-
-* 路线
-	- 用随机表面模型解释光强分布的改变，并通过统计方法给出规律。
-
-12. 多边形旋涡 Polygon Vortex
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A stationary cylindrical vessel containing a rotating plate near the bottom surface is partially filled with liquid. Under certain conditions, the shape of the liquid surface becomes polygon-like.
-
-一个静止圆柱管的底部是一个转盘，内部空间中有一部分填充着液体。在特定条件下，液体的表面会变得像多边形一样。
-
-Explain this phenomenon and investigate the dependence on the relevant parameters.
-
-解释这个现象并探究其与相关参量的依赖关系。
-
-* 关键词
-	- 旋转中的液体（流体力学）
-	- 流体力学对称性破缺（场论）
-
-* 高手示范
-	- Jansson T R N , Haspang M P , Jensen K H , et al. `Polygons on a Rotating Fluid Surface[J]. <https://arxiv.org/pdf/physics/0511251.pdf>`_ Physical Review Letters, 2006, 96(17):174502.
-
-* 路线
-	- 进行实验和数值计算，绘制相图(Phase Diagram)。
-	- 尝试给出关于液体表面形状的泛函极值形式规律，进而解释对称性破缺、计算“吸引域”。
-
-13. 摩擦振子 Friction Oscillator
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A massive object is placed onto two identical parallel horizontal cylinders. The two cylinders each rotate with the same angular velocity, but in opposite directions. 
-
-一个重物体 [#]_ 放置在两根水平平行的相同圆柱上，而两根圆柱是以大小相同方向相反的角速度旋转着的。
-
-Investigate how the motion of the object on the cylinders depends on the relevant parameters.
-
-探究圆柱上物体的运动如何依赖于相关参量。
-
-* 关键词
-	- 滚动摩擦（摩擦学）
-	- 振动（力学）
-
-* 从这里开始
-	- Enrique Zeleny. `The Friction Oscillator. <http://demonstrations.wolfram.com/TheFrictionOscillator/>`_ Wolfram Demonstrations Project, 2013.
-
-14. 下落的塔 Falling Tower
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Identical discs are stacked one on top of another to form a freestanding tower. The bottom disc can be removed by applying a sudden horizontal force such that the rest of the tower will drop down onto the surface and the tower remains standing.
-
-把相同的圆盘摞起来以形成一个自立式的塔 [#]_ 。底部的圆盘能通过施加一个突然 [#]_ 的水平力来去除，同时 [#]_ 保持塔的剩余部分立着坐落在桌面上。
-
-Investigate the phenomenon and determine the conditions that allow the tower to remain standing.
-
-探究此现象并确定使允许塔保持直立的条件。
-
-* 关键词
-	- 摩擦（摩擦学）、碰撞（弹性力学）、静力学稳定性（静力学）
-
-* 路线
-	- 在不同的装置参数下进行实验观察，寻找与真实移除过程相符的物理过程模型。
-	- 假定一类外力的形式，并计算其参数对塔的某些物理量能造成的影响。
-	- 建立衡量塔直立的难易程度的方式，找出临界条件。
-
-15. 胡椒罐子 Pepper Pot
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you take a salt or pepper pot and just shake it, the contents will pour out relatively slowly. However, if an object is rubbed along the bottom of the pot, then the rate of pouring can increase dramatically.
-
-仅通过摇动调料瓶来倒出内容物 [#]_ 是相对较慢的，如果有一个物体在罐子底部摩擦则能戏剧性地增大倾倒的速率。
-
-Explain this phenomenon and investigate how the rate depends on the relevant parameters.
-
-解释这个现象并探究这个速率如何依赖于相关参量。
-
-* 关键词
-	- 通过小孔/漏斗的颗粒流问题（颗粒力学）
-
-* 特别提醒
-	- 或许可以使用统计物理方法，计算外界驱动激发的粒子数。
-
-16. 镍钛引擎 Nitinol Engine
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Place a nitinol wire loop around two pulleys with their axes located at some distance from each other. If one of the pulleys is immersed into hot water, the wire tends to straighten, causing a rotation of the pulleys.
-
-在两个有一定轴距的滑轮上绕一根镍钛丝。如果将其中一个滑轮浸入热水，镍钛丝就会趋向于伸直而使得滑轮转动。
-
-Investigate the properties of such an engine.
-
-探究这样的一个发动机的性质。
-
-* 关键词
-	- 形状记忆效应（固体物理）
-	- 发动机性能（一点点机械动力知识）
-
-* 路线
-	- 寻找/建立相变时的应力等物理量的表达式，用于计算转矩、转速。
-	- 与实验相对比，计算能量效率、最佳工作温度区间等性能指标。
-
-17. 纸牌 Playing Card
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A standard playing card can travel a very long distance provided that spin is imparted as it is thrown.
-
-如果使一张标准纸牌 [#]_ 自转起来，它就能飞越很长一段距离。
-
-Investigate the parameters that affect the distance and the trajectory.
-
-探究影响距离和轨迹的参量。
-
-* 关键词/从这里开始
-	- 陀螺效应（刚体力学）
-	- `空气阻力 <https://en.wikipedia.org/wiki/Drag_(physics)>`_ （空气动力学）
-	- `The Aerodynamics and Stability of Flying Discs <http://large.stanford.edu/courses/2007/ph210/scodary1/>`_
-
-* 路线
-	- 练绝技（笑）
-	- 分析飞行过程的角动量方向偏移量、方向偏转造成的压差阻力。
-	- 分析强阻力下的飞行。
-
-.. [#] *limits* 一词也可能特指 *检出限(detection limit)* 等概念，但那样的话不应写复数形式。也可能指装置性能的理论极限，但那样的话不应与 *accuracy, precision* 并列。此处可以理解为对电路的影响这类的局限性。
-
-.. [#] 原文 *spin* 似乎强调绕质心的自转是现象的关键，但标题 *swinging* 似乎强调着转动是以管的一端为瞬心的。
-
-.. [#] 原文Ferrite应译为铁氧体。硬磁铁氧体用于作为磁铁，而软磁铁氧体用于作为磁珠（铁芯），但它们都是铁磁性的，除矫顽力不同之外无根本不同。考虑铁氧体一词在生活中不常用，故根据题意以“铁芯”这一有代表性的印象代替（但实际铁芯确实是片状硅钢制成的）。
-
-.. [#] 在关于亚瑟王的西方神话传说中，摩根勒菲是一名女性巫师的名字，也用于指代她用巫术所创造的空中城堡幻象。
-
-.. [#] 看上去， *similar* 一词相当含糊，仿佛意味着各种各样的蜃景都可以是研究对象。实际上，狭义的 *Fata Morgana* 仅指某一类复杂蜃景，它相似于一般的上现蜃景，但它在竖直方向上包含多幅图像、或者说一系列图像）。
-
-.. [#] 注意这里说的动力学稳定性（Dynamics Stability）与题目中的动态稳定（dynamic stablization）不是同一概念！
-
-.. [#] 原文 *massive object* 也可能指一般的有质量的物体，但考虑为较重的物体对本题的研究是有特别意义的。
-
-.. [#] 仅限定每层只有一个圆盘，而未限定具体的摆放位置。也就是说，你或许可以造一个斜塔。
-
-.. [#] 可能指仅在造成可见位移之前有力的作用，也可能只是指移出底部砖块耗时很短。
-
-.. [#] 可能仅指落下的瞬间，故塔的上方被震倒的情况或许可以不作考虑。
-
-.. [#] 注意题目原文并未限定内容物是什么， *salt or pepper* 仅仅是用于对容器的说明。
-
-.. [#] 不同规则、不同地域的标准是有些不同的，但这对研究的意义并无影响，因为这个条件的存在只是为了把研究范围限定在可手持的纸牌的范围内。
+研究此现象。
 
 -------------
 启发性问题
