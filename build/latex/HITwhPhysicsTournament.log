@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  14 SEP 2019 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  14 SEP 2019 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1125,7 +1125,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<5.jpg, id=501, 261.97874pt x 90.69885pt>
+<5.jpg, id=500, 261.97874pt x 90.69885pt>
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 1303.
 
 (c:/Program Files/TexLive/2018/texmf-dist/tex/latex/psnfss/t1pcr.fd
@@ -1141,41 +1141,48 @@ File: pendulum.jpg Graphic file (type jpg)
 <use pendulum.jpg>
 Package pdftex.def Info: pendulum.jpg  used on input line 1394.
 (pdftex.def)             Requested size: 372.39034pt x 472.76509pt.
- [28] [29 <./pendulum.jpg>] [30]
-<12.jpg, id=551, 469.52036pt x 139.84714pt>
+ [28]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1445.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1445.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1445.
+ [29 <./pendulum.jpg>] [30]
+<12.jpg, id=552, 469.52036pt x 139.84714pt>
 File: 12.jpg Graphic file (type jpg)
 <use 12.jpg>
-Package pdftex.def Info: 12.jpg  used on input line 1664.
+Package pdftex.def Info: 12.jpg  used on input line 1661.
 (pdftex.def)             Requested size: 452.9679pt x 134.92175pt.
  [31]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1760.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1757.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1760.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1757.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1760.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1757.
  [32 <./12.jpg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1873.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1870.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1873.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1870.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1873.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1870.
  [33]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1954.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1951.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1954.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1951.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1954.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1951.
  [34]
 (./HITwhPhysicsTournament.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1966.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1963.
 
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.1966 \end{document}
+l.1963 \end{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1186,7 +1193,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.1966 \end{document}
+l.1963 \end{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1195,10 +1202,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [35]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1966.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1963.
  (./HITwhPhysicsTournament.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1966.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1966.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1963.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1963.
 
 Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
@@ -1207,7 +1214,7 @@ Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1966.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1963.
  )
 (\end occurred when \ifx on line 1 was incomplete)
 (\end occurred when \ifx on line 1 was incomplete)
@@ -1218,10 +1225,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1966.
 (\end occurred when \ifx on line 1 was incomplete)
 (\end occurred when \ifx on line 1 was incomplete) 
 Here is how much of TeX's memory you used:
- 18321 strings out of 492649
- 258183 string characters out of 6126736
- 348348 words of memory out of 5000000
- 21124 multiletter control sequences out of 15000+600000
+ 18304 strings out of 492649
+ 257787 string characters out of 6126736
+ 348386 words of memory out of 5000000
+ 21104 multiletter control sequences out of 15000+600000
  137366 words of font info for 344 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  37i,12n,45p,1178b,3295s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1314,7 +1321,7 @@ e/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Program Files/TexLive
 2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program Files/TexLive/2018
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Program Files/TexLive/2018/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on HITwhPhysicsTournament.pdf (39 pages, 2241587 bytes).
+Output written on HITwhPhysicsTournament.pdf (39 pages, 2241889 bytes).
 PDF statistics:
  899 PDF objects out of 1000 (max. 8388607)
  677 compressed objects within 7 object streams

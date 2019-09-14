@@ -47,7 +47,7 @@
 \contentsline {subsection}{\numberline {7.1.7}7. 绳上球 Balls on a String}{28}{subsection.7.1.7}
 \contentsline {subsection}{\numberline {7.1.8}8. 皂膜筛子 Soap Membrane Filter}{30}{subsection.7.1.8}
 \contentsline {subsection}{\numberline {7.1.9}9. 磁悬浮 Magnet Levitation}{30}{subsection.7.1.9}
-\contentsline {subsection}{\numberline {7.1.10}10. 导电线 Conducting Lines}{31}{subsection.7.1.10}
+\contentsline {subsection}{\numberline {7.1.10}10. 导电线 Conducting Lines}{30}{subsection.7.1.10}
 \contentsline {subsection}{\numberline {7.1.11}11. 漂移斑点 Drifting Speckles}{31}{subsection.7.1.11}
 \contentsline {subsection}{\numberline {7.1.12}12. 多边形旋涡 Polygon Vortex}{31}{subsection.7.1.12}
 \contentsline {subsection}{\numberline {7.1.13}13. 摩擦振子 Friction Oscillator}{32}{subsection.7.1.13}
