@@ -96,7 +96,7 @@ Investigate the phenomenon.
 
 * 从这里开始
 	- 磁致伸缩效应 `Magnetostriction <https://en.wikipedia.org/wiki/Magnetostriction>`_
-	- Selim Yürekten, Yunus Sert, Miroslav Trnan, Enis Ceylan. `The Parameters of Generated Sound Level of Transformer Cores. <http://www.sciencedirect.com/science/article/pii/S1877705817342534 > `_ Procedia Engineering, 2017, 202:273-279.
+	- Selim Yürekten, Yunus Sert, Miroslav Trnan, Enis Ceylan. `The Parameters of Generated Sound Level of Transformer Cores. <http://www.sciencedirect.com/science/article/pii/S1877705817342534>`_ Procedia Engineering, 2017, 202:273-279.
 
 * 路线
 	- 换信号：谐振频率下的现象、窄带信号的频率响应特性、宽频带信号下的特性
@@ -157,16 +157,14 @@ Investigate the phenomenon.
 
 探究这个现象。
 
-* 关键词
+* 关键词/从这里开始
+	- `Astrojax <https://en.wikipedia.org/wiki/Astrojax>`_
 	- 支点振动的摆问题（非线性动力学）
 	- 参数振动（理论力学）
 	- 双摆问题（非线性动力学）
-
-* 从这里开始
-	- `Astrojax <https://en.wikipedia.org/wiki/Astrojax>`_
-
+	
 * 高手示范
-	- Philip Du Toit. `The Astrojax Pendulum and the N-Body Problem on the Sphere: A study in reduction, variational integration, and pattern evocation. <http://www.cds.caltech.edu/~marsden/wiki/uploads/projects/geomech/Dutoit2005.pdf>`_ Student Projects in Marsden Research Projects, 2005.
+	- Philip Du Toit. `The Astrojax Pendulum and the N-Body Problem on the Sphere: A study in reduction, variational integration, and pattern evocation. <http://www.cds.caltech.edu/~marsden/wiki/uploads/projects/geomech/Dutoit2005.pdf>`_ Student Projects in Caltech: Marsden Research Projects, 2005.
 
 * 路线
 	- 建立数值计算用的模型
