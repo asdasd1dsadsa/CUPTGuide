@@ -44,7 +44,7 @@ Explain the phenomenon.
 解释这个现象。
 
 * 关键词
-	- 不同边界条件下的圆柱体绕流问题（流体力学）
+	- 一定边界条件下的圆柱体绕流问题（流体力学）
 
 * 从这里开始
 	- 宽德效应 `Coandă Effect <https://en.wikipedia.org/wiki/Coandă_effect>`_
@@ -96,7 +96,7 @@ Investigate the phenomenon.
 
 * 从这里开始
 	- 磁致伸缩效应 `Magnetostriction <https://en.wikipedia.org/wiki/Magnetostriction>`_
-	- Selim Yürekten, Yunus Sert, Miroslav Trnan, Enis Ceylan. `The Parameters of Generated Sound Level of Transformer Cores. <http://www.sciencedirect.com/science/article/pii/S1877705817342534 > `_ Procedia Engineering, 2017, 202:273-279.
+	- Selim Yürekten, Yunus Sert, Miroslav Trnan, Enis Ceylan. `The Parameters of Generated Sound Level of Transformer Cores. <http://www.sciencedirect.com/science/article/pii/S1877705817342534>`_ Procedia Engineering, 2017, 202:273-279.
 
 * 路线
 	- 换信号：谐振频率下的现象、窄带信号的频率响应特性、宽频带信号下的特性
@@ -140,7 +140,7 @@ Investigate the parameters that determine the time of sinking.
 
 * 从这里开始
 	- `StackExchange Physics: What physics equation can be used to describe the saxon bowl experiment? <https://physics.stackexchange.com/questions/416112/what-physics-equation-can-be-used-to-describe-the-saxon-bowl-experiment>`_
-	- `Ilinblog <http://ilinblog.ru/article.php?id_article=58>`_
+	- `Ilinblog: Saxon Bowl IYPT 2020 - analytical solution <http://ilinblog.ru/article.php?id_article=58>`_
 	- Greer A , Kincanon E . `An experiment with Saxon bowls[J]. <https://www.researchgate.net/publication/239045627_An_experiment_with_Saxon_bowls>`_ Physics Teacher, 2000, 38(2):112-112.
 
 * 路线
@@ -157,16 +157,14 @@ Investigate the phenomenon.
 
 探究这个现象。
 
-* 关键词
+* 关键词/从这里开始
+	- `Astrojax <https://en.wikipedia.org/wiki/Astrojax>`_
 	- 支点振动的摆问题（非线性动力学）
 	- 参数振动（理论力学）
 	- 双摆问题（非线性动力学）
-
-* 从这里开始
-	- `Astrojax <https://en.wikipedia.org/wiki/Astrojax>`_
-
+	
 * 高手示范
-	- Philip Du Toit. `The Astrojax Pendulum and the N-Body Problem on the Sphere: A study in reduction, variational integration, and pattern evocation. <http://www.cds.caltech.edu/~marsden/wiki/uploads/projects/geomech/Dutoit2005.pdf>`_ Student Projects in Marsden Research Projects, 2005.
+	- Philip Du Toit. `The Astrojax Pendulum and the N-Body Problem on the Sphere: A study in reduction, variational integration, and pattern evocation. <http://www.cds.caltech.edu/~marsden/wiki/uploads/projects/geomech/Dutoit2005.pdf>`_ Student Projects in Caltech: Marsden Research Projects, 2005.
 
 * 路线
 	- 建立数值计算用的模型
@@ -189,6 +187,9 @@ Investigate the properties of such a membrane filter.
 
 * 高手示范
 	- BB Stogin, L Gockowski, H Feldstein, H Claure, J Wang, TS Wong. `Free-standing liquid membranes as unusual particle separators[J]. <https://advances.sciencemag.org/content/4/8/eaat3276>`_ Science Advances, 2018, 4(8):eaat3276.
+
+* 特别提醒
+	- Zou J , Wang W , Ji C , et al. `Droplets passing through a soap film[J]. <http://sci-hub.tw/10.1063/1.4986798>`_ Physics of Fluids, 2017, 29(6):062110.
 
 9. 磁悬浮 Magnet Levitation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -287,6 +288,8 @@ A massive object is placed onto two identical parallel horizontal cylinders. The
 Investigate how the motion of the object on the cylinders depends on the relevant parameters.
 
 探究圆柱上物体的运动如何依赖于相关参量。
+
+.. image:: http://stemfellowship.org/wp-content/uploads/2019/07/pendulum.jpg
 
 * 关键词
 	- 滚动摩擦（摩擦学）
