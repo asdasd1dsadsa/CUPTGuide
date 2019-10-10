@@ -1,60 +1,60 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}前言}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}竞赛简介}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}竞赛任务}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}赛题}{5}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}常见的研究任务}{5}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}竞赛主要相关资料来源}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}对参赛者的要求}{6}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}参赛前}{6}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}参赛中}{6}{subsection.2.4.2}
-\contentsline {section}{\numberline {2.5}对参赛者的好处}{6}{section.2.5}
-\contentsline {section}{\numberline {2.6}参赛后的建议}{7}{section.2.6}
-\contentsline {chapter}{\numberline {3}研究简介}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}科学的原则和价值观}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}科研过程}{10}{section.3.2}
-\contentsline {chapter}{\numberline {4}信息搜集}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}基本理论的学习}{11}{section.4.1}
-\contentsline {section}{\numberline {4.2}论文的搜集和阅读}{12}{section.4.2}
-\contentsline {section}{\numberline {4.3}如何快速判断资料的价值}{12}{section.4.3}
-\contentsline {chapter}{\numberline {5}研究}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}初步分析}{15}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}明确现象}{15}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}理解原理}{16}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}正式研究}{16}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}实验}{16}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}数据处理}{16}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}理论分析}{17}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}结论}{17}{subsection.5.2.4}
-\contentsline {chapter}{\numberline {6}赛场表现}{19}{chapter.6}
-\contentsline {section}{\numberline {6.1}比赛规则与策略}{19}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}关于正方的规则}{19}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}关于反方的规则}{20}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}关于评论方的规则}{21}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}主控基本策略}{21}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}关于其他队员}{22}{subsection.6.1.5}
-\contentsline {subsection}{\numberline {6.1.6}关于队伍}{22}{subsection.6.1.6}
-\contentsline {subsection}{\numberline {6.1.7}进攻性策略}{23}{subsection.6.1.7}
-\contentsline {section}{\numberline {6.2}学术报告}{24}{section.6.2}
-\contentsline {chapter}{\numberline {7}附录}{25}{chapter.7}
-\contentsline {section}{\numberline {7.1}2020年竞赛题目与试析}{25}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}1. 自己发明 Invent Yourself}{25}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}2. 低调的瓶子 Inconspicuous Bottle}{26}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}3. 摇摆声管 Swinging Sound Tube}{26}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}4. 唱歌的铁芯 Singing Ferrite}{27}{subsection.7.1.4}
-\contentsline {subsection}{\numberline {7.1.5}5. 甜蜜泡影 Sweet Mirage}{27}{subsection.7.1.5}
-\contentsline {subsection}{\numberline {7.1.6}6. 萨克逊碗 Saxon Bowl}{28}{subsection.7.1.6}
-\contentsline {subsection}{\numberline {7.1.7}7. 绳上球 Balls on a String}{28}{subsection.7.1.7}
-\contentsline {subsection}{\numberline {7.1.8}8. 皂膜筛子 Soap Membrane Filter}{30}{subsection.7.1.8}
-\contentsline {subsection}{\numberline {7.1.9}9. 磁悬浮 Magnet Levitation}{30}{subsection.7.1.9}
-\contentsline {subsection}{\numberline {7.1.10}10. 导电线 Conducting Lines}{30}{subsection.7.1.10}
-\contentsline {subsection}{\numberline {7.1.11}11. 漂移斑点 Drifting Speckles}{31}{subsection.7.1.11}
-\contentsline {subsection}{\numberline {7.1.12}12. 多边形旋涡 Polygon Vortex}{31}{subsection.7.1.12}
-\contentsline {subsection}{\numberline {7.1.13}13. 摩擦振子 Friction Oscillator}{32}{subsection.7.1.13}
-\contentsline {subsection}{\numberline {7.1.14}14. 下落的塔 Falling Tower}{32}{subsection.7.1.14}
-\contentsline {subsection}{\numberline {7.1.15}15. 胡椒罐子 Pepper Pot}{33}{subsection.7.1.15}
-\contentsline {subsection}{\numberline {7.1.16}16. 镍钛引擎 Nitinol Engine}{33}{subsection.7.1.16}
-\contentsline {subsection}{\numberline {7.1.17}17. 纸牌 Playing Card}{34}{subsection.7.1.17}
-\contentsline {section}{\numberline {7.2}启发性问题}{34}{section.7.2}
-\contentsline {section}{\numberline {7.3}较有用的软件}{34}{section.7.3}
+\contentsline {chapter}{\numberline {1}前言}{3}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}竞赛简介}{5}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}竞赛任务}{5}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}赛题}{5}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}常见的研究任务}{5}{subsection.2.2.1}% 
+\contentsline {section}{\numberline {2.3}竞赛主要相关资料来源}{5}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}对参赛者的要求}{6}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}参赛前}{6}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}参赛中}{6}{subsection.2.4.2}% 
+\contentsline {section}{\numberline {2.5}对参赛者的好处}{6}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}参赛后的建议}{7}{section.2.6}% 
+\contentsline {chapter}{\numberline {3}研究简介}{9}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}科学的原则和价值观}{9}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}科研过程}{10}{section.3.2}% 
+\contentsline {chapter}{\numberline {4}信息搜集}{11}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}基本理论的学习}{11}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}论文的搜集和阅读}{12}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}如何快速判断资料的价值}{12}{section.4.3}% 
+\contentsline {chapter}{\numberline {5}研究}{15}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}初步分析}{15}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}明确现象}{15}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}理解原理}{15}{subsection.5.1.2}% 
+\contentsline {section}{\numberline {5.2}正式研究}{16}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}实验}{16}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}数据处理}{16}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.3}理论分析}{16}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.4}结论}{17}{subsection.5.2.4}% 
+\contentsline {chapter}{\numberline {6}赛场表现}{19}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}比赛规则与策略}{19}{section.6.1}% 
+\contentsline {subsection}{\numberline {6.1.1}关于正方的规则}{19}{subsection.6.1.1}% 
+\contentsline {subsection}{\numberline {6.1.2}关于反方的规则}{20}{subsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.1.3}关于评论方的规则}{21}{subsection.6.1.3}% 
+\contentsline {subsection}{\numberline {6.1.4}主控基本策略}{21}{subsection.6.1.4}% 
+\contentsline {subsection}{\numberline {6.1.5}关于其他队员}{22}{subsection.6.1.5}% 
+\contentsline {subsection}{\numberline {6.1.6}关于队伍}{22}{subsection.6.1.6}% 
+\contentsline {subsection}{\numberline {6.1.7}进攻性策略}{23}{subsection.6.1.7}% 
+\contentsline {section}{\numberline {6.2}学术报告}{24}{section.6.2}% 
+\contentsline {chapter}{\numberline {7}附录}{25}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}2020年竞赛题目与试析}{25}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}1. 自己发明 Invent Yourself}{25}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}2. 低调的瓶子 Inconspicuous Bottle}{26}{subsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.1.3}3. 摇摆声管 Swinging Sound Tube}{26}{subsection.7.1.3}% 
+\contentsline {subsection}{\numberline {7.1.4}4. 唱歌的铁芯 Singing Ferrite}{27}{subsection.7.1.4}% 
+\contentsline {subsection}{\numberline {7.1.5}5. 甜蜜泡影 Sweet Mirage}{27}{subsection.7.1.5}% 
+\contentsline {subsection}{\numberline {7.1.6}6. 萨克逊碗 Saxon Bowl}{28}{subsection.7.1.6}% 
+\contentsline {subsection}{\numberline {7.1.7}7. 绳上球 Balls on a String}{28}{subsection.7.1.7}% 
+\contentsline {subsection}{\numberline {7.1.8}8. 皂膜筛子 Soap Membrane Filter}{30}{subsection.7.1.8}% 
+\contentsline {subsection}{\numberline {7.1.9}9. 磁悬浮 Magnet Levitation}{30}{subsection.7.1.9}% 
+\contentsline {subsection}{\numberline {7.1.10}10. 导电线 Conducting Lines}{30}{subsection.7.1.10}% 
+\contentsline {subsection}{\numberline {7.1.11}11. 漂移斑点 Drifting Speckles}{31}{subsection.7.1.11}% 
+\contentsline {subsection}{\numberline {7.1.12}12. 多边形旋涡 Polygon Vortex}{31}{subsection.7.1.12}% 
+\contentsline {subsection}{\numberline {7.1.13}13. 摩擦振子 Friction Oscillator}{32}{subsection.7.1.13}% 
+\contentsline {subsection}{\numberline {7.1.14}14. 下落的塔 Falling Tower}{32}{subsection.7.1.14}% 
+\contentsline {subsection}{\numberline {7.1.15}15. 胡椒罐子 Pepper Pot}{33}{subsection.7.1.15}% 
+\contentsline {subsection}{\numberline {7.1.16}16. 镍钛引擎 Nitinol Engine}{33}{subsection.7.1.16}% 
+\contentsline {subsection}{\numberline {7.1.17}17. 纸牌 Playing Card}{33}{subsection.7.1.17}% 
+\contentsline {section}{\numberline {7.2}\GenericError {(inputenc) }{Package inputenc Error: Unicode character 启 (U+542F)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 发 (U+53D1)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 性 (U+6027)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 问 (U+95EE)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 题 (U+9898)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }}{34}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}\GenericError {(inputenc) }{Package inputenc Error: Unicode character 较 (U+8F83)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 有 (U+6709)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 用 (U+7528)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 的 (U+7684)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 软 (U+8F6F)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }\GenericError {(inputenc) }{Package inputenc Error: Unicode character 件 (U+4EF6)\MessageBreak not set up for use with LaTeX}{See the inputenc package documentation for explanation.}{You may provide a definition with\MessageBreak \DeclareUnicodeCharacter }}{34}{section.7.3}% 
 \babel@toc {english}{}

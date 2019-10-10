@@ -15,9 +15,9 @@
 
 **特别提醒** 栏目是我对网络上已有的参考文献列表的补充，我认为其背后可能有有价值的问题，有余力者可以考虑。
 
-**路线** 是我提供的一条思路。我指出的研究领域和方向很可能不正确或是不准确，且仅建议在完全不知所措时参考，否则会错过锤炼信息搜寻能力、积累见闻的机会。即便我说的是对的，也应当尽量不照搬，因为寻找自己认为有价值的问题去研究也是研究重要的一环。
+**路线** 是我提供的一条思路。我指出的研究领域和方向很可能不正确或是不准确，且仅建议在完全不知所措时参考，否则会错过锤炼信息搜寻能力、积累见闻的机会。即便我说的是对的，也应当尽量不照搬，因为寻找自己认为有价值的问题去研究也是研究重要的一环。而对于很多物理背景浓厚的问题，能够重复前人的成果就已经算是足够出色了，所以不需要路线上的额外建议，研究者只需跟随已有的论文即可。
 
-寻找更多资料，可以访问：http://stemfellowship.org/iypt-2020-references-2/。
+白嫖更多资料，可以访问：http://stemfellowship.org/iypt-2020-references-2/。
 
 1. 自己发明 Invent Yourself
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -63,9 +63,10 @@ Explain the phenomenon.
 
 * 路线
 	- 进行对不同瓶子的不同气流流速、口径、距离、角度的定常流场分析，并借此预测吹灭蜡烛的难易程度。
+	- 瞬态模型
 
 3. 摇摆声管 Swinging Sound Tube
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A Sound Tube is a toy, consisting of a corrugated plastic tube, that you can spin around to produce sounds.
 
 声管是一种由一根塑料波纹管构成的玩具，旋转 [#]_ 它就能产生声音。
@@ -265,9 +266,6 @@ Explain the phenomenon and investigate how the drift depends on relevant paramet
 * 高手示范
 	- Duncan D , Kirkpatrick S . `Algorithms for simulation of speckle (laser and otherwise)[C]. <https://www.researchgate.net/publication/233783056_Algorithms_for_simulation_of_speckle_laser_and_otherwise>`_ Spie-bios Photonics West. 2008.
 
-* 路线
-	- 用随机表面模型解释光强分布的改变，并通过统计方法给出规律。
-
 12. 多边形旋涡 Polygon Vortex
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A stationary cylindrical vessel containing a rotating plate near the bottom surface is partially filled with liquid. Under certain conditions, the shape of the liquid surface becomes polygon-like.
@@ -301,12 +299,19 @@ Investigate how the motion of the object on the cylinders depends on the relevan
 
 探究圆柱上物体的运动如何依赖于相关参量。
 
+.. image:: image/13.gif
+
 * 关键词
 	- 滚动摩擦（摩擦学）
 	- 振动（力学）
 
 * 从这里开始
 	- Enrique Zeleny. `The Friction Oscillator. <http://demonstrations.wolfram.com/TheFrictionOscillator/>`_ Wolfram Demonstrations Project, 2013.
+
+* 路线
+	- 给出支持力与位置的关系
+	- 确定摩擦模型
+	- 动力学分析
 
 14. 下落的塔 Falling Tower
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -337,10 +342,11 @@ Explain this phenomenon and investigate how the rate depends on the relevant par
 解释这个现象并探究这个速率如何依赖于相关参量。
 
 * 关键词
-	- 通过小孔/漏斗的颗粒流问题（颗粒力学）
+	- 通过小孔/漏斗的颗粒流问题（颗粒力学、颗粒材料的统计力学）
+	- 随机信号驱动（随机动力学）
 
-* 特别提醒
-	- 或许可以使用统计物理方法，计算外界驱动激发的粒子数。
+* 高手示范
+	- A. Coniglio, A. Fierro, H. J. Herrmann, M. Nicodemi. `Unifying Concepts in Granular Media and Glasses: From the Statistical Mechanics of Granular Media to the Theory of Jamming[J]. <https://b-ok.cc/dl/849000/e4a2af>`_ 2004.
 
 16. 镍钛引擎 Nitinol Engine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
