@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'HITwhPhysicsTournament'
-copyright = '2018, N518 asd1dsa'
-author = 'N518 asd1dsa'
+project = 'CUPTGuide'
+copyright = '2018, asd1dsa'
+author = 'asd1dsa'
 
 # The short X.Y version
 version = ''
@@ -102,7 +102,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HITwhPhysicsTournamentdoc'
+htmlhelp_basename = 'CUPTguide'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -147,8 +147,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'HITwhPhysicsTournament.tex', 'HITwhPhysicsTournament Documentation',
-     'N518 asd1dsa', 'manual'),
+    (master_doc, 'CUPTGuide.tex', 'CUPTGuide Documentation',
+     'asd1dsa', 'manual'),
 ]
 
 
@@ -157,7 +157,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'hitwhphysicstournament', 'HITwhPhysicsTournament Documentation',
+    (master_doc, 'CUPTGuide', 'CUPTGuide Documentation',
      [author], 1)
 ]
 
@@ -168,8 +168,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'HITwhPhysicsTournament', 'HITwhPhysicsTournament Documentation',
-     author, 'HITwhPhysicsTournament', 'One line description of project.',
+    (master_doc, 'CUPTGuide', 'CUPTGuide Documentation',
+     author, 'CUPTGuide', 'One line description of project.',
      'Miscellaneous'),
 ]
 

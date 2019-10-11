@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.8)  10 OCT 2019 21:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.8)  11 OCT 2019 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1206,8 +1206,8 @@ Chapter 1.
 [3] [4]
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 126.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 138.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 124.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 136.
 
 (c:/Program Files/TexLive/2019/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -1217,14 +1217,14 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 [6]
 
 LaTeX Font Warning: Font shape `C70/gbsn/m/it' undefined
-(Font)              using `C70/gbsn/m/n' instead on input line 273.
+(Font)              using `C70/gbsn/m/n' instead on input line 271.
 
 [7] [8
 
 ]
 Chapter 3.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 311.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 309.
 [9] [10]
 Chapter 4.
 [11
@@ -1234,7 +1234,7 @@ Chapter 4.
 ]
 Chapter 5.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 475.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 473.
 [15] [16] [17] [18
 
 ]
@@ -1247,35 +1247,35 @@ Chapter 7.
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \CJK@XXX ...}\expandafter \CJK@ignorespaces \else 
                                                   \csname u8:\string #1\stri...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 I'm ignoring this; it doesn't match any \if.
 
 ! Undefined control sequence.
 <argument> ...let }\u8:根 {\global \let }\u8:勒 
                                                   {\global \let }\u8:菲 }\e...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1286,7 +1286,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> ...let }\u8:勒 {\global \let }\u8:菲 
                                                   }\edef \Hy@tempb {}\ifx \H...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1297,7 +1297,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> ...let }\u8:根 {\global \let }\u8:勒 
                                                   {\global \let }\u8:菲 \if...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1308,7 +1308,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> ...let }\u8:勒 {\global \let }\u8:菲 
                                                   \ifx \\\\\else \hyper@hash...
-l.1298 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
+l.1296 ...ogou.se/wiki/摩根勒菲}{摩根勒菲}
                                                    %^^M
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1317,33 +1317,33 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 <5.jpg, id=503, 261.97874pt x 90.69885pt>
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 1312.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 1310.
 
 (c:/Program Files/TexLive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 File: 5.jpg Graphic file (type jpg)
 <use 5.jpg>
-Package pdftex.def Info: 5.jpg  used on input line 1312.
+Package pdftex.def Info: 5.jpg  used on input line 1310.
 (pdftex.def)             Requested size: 261.9781pt x 90.69861pt.
  [27 <./5.jpg>]
 <pendulum.jpg, id=518, 372.39125pt x 472.76625pt>
 File: pendulum.jpg Graphic file (type jpg)
 <use pendulum.jpg>
-Package pdftex.def Info: pendulum.jpg  used on input line 1403.
+Package pdftex.def Info: pendulum.jpg  used on input line 1401.
 (pdftex.def)             Requested size: 372.39034pt x 472.76509pt.
  [28]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1454.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1452.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1454.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1452.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1454.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1452.
  [29 <./pendulum.jpg>] [30]
 <12.jpg, id=554, 469.52036pt x 139.84714pt>
 File: 12.jpg Graphic file (type jpg)
 <use 12.jpg>
-Package pdftex.def Info: 12.jpg  used on input line 1661.
+Package pdftex.def Info: 12.jpg  used on input line 1659.
 (pdftex.def)             Requested size: 452.9679pt x 134.92175pt.
  [31 <./12.jpg>]
 
@@ -1353,7 +1353,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1713 \noindent\sphinxincludegraphics{{13}.gif}
+l.1711 \noindent\sphinxincludegraphics{{13}.gif}
                                                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1365,18 +1365,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1713 \noindent\sphinxincludegraphics{{13}.gif}
+l.1711 \noindent\sphinxincludegraphics{{13}.gif}
                                                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [32] [33] (./HITwhPhysicsTournament.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1986.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1984.
 
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.1986 \end{document}
+l.1984 \end{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1387,7 +1387,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \set@color ...\@pdfcolorstack push{\current@color 
                                                   }\aftergroup \reset@color 
-l.1986 \end{document}
+l.1984 \end{document}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1396,10 +1396,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1986.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1984.
  (./HITwhPhysicsTournament.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1986.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1986.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1984.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1984.
 
 Package rerunfilecheck Info: File `HITwhPhysicsTournament.out' has not changed.
 
@@ -1418,9 +1418,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 (\end occurred when \ifx on line 1 was incomplete)
 (\end occurred when \ifx on line 1 was incomplete) 
 Here is how much of TeX's memory you used:
- 18664 strings out of 492623
- 262114 string characters out of 6126682
- 359179 words of memory out of 5000000
+ 18663 strings out of 492623
+ 262100 string characters out of 6126682
+ 359128 words of memory out of 5000000
  21504 multiletter control sequences out of 15000+600000
  137552 words of font info for 345 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
@@ -1514,7 +1514,7 @@ e/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Program Files/TexLive
 2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program Files/TexLive/2019
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Program Files/TexLive/2019/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on HITwhPhysicsTournament.pdf (38 pages, 2243704 bytes).
+Output written on HITwhPhysicsTournament.pdf (38 pages, 2243603 bytes).
 PDF statistics:
  900 PDF objects out of 1000 (max. 8388607)
  679 compressed objects within 7 object streams
