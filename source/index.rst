@@ -8,7 +8,7 @@
 
 最近更新于2019年10月10日，更新了 **2020年竞赛题目与试析** 部分。
 
-如有反馈意见请从右上角链接前往Github的Issues页面，也欢迎fork。
+如有反馈意见请从右上角链接前往Github的Issues页面，也欢迎fork。此外，在Github仓库中的source文件夹中能找到一部分绘图用的代码。
 
 .. toctree::
     :maxdepth: 2
