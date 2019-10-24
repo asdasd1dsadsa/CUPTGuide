@@ -450,7 +450,7 @@ Investigate the parameters that affect the distance and the trajectory.
 
 演示：Powerpoint（更通用）、LaTeX Beamer（更专业）
 
-	广告：在这个比赛中，你可以仅学习 **Mathematica** ，这样的话以上的其他软件都可以免了。当然如果你已经有Matlab等软件的使用经验，或者有特种的需求（如超高性能计算），就另说了。
+	广告：在这个比赛中，你可以仅学习 **Mathematica** ，这样的话以上的其他软件都可以免了。当然如果你已经有Matlab等软件的使用经验，或者有特种的需求（如超高性能计算），就另说了。应用于IYPT赛题的案例可参考： `知乎：wjxway - Mathematica 到底有多厉害？ <https://www.zhihu.com/question/27834147/answer/207262440>`_
 
 工程制图：Solidworks（主要3D）、AutoCAD（主要2D）
 
