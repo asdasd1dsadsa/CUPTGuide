@@ -203,7 +203,7 @@ Investigate the properties of such a membrane filter.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Under certain circumstances, the “flea” of a magnetic stirrer can rise up and levitate stably in a viscous fluid during stirring.
 
-在特定条件下，粘性液体中的搅拌子会在搅拌时升起并稳定悬浮。
+在特定条件下，粘性液体中的磁力搅拌子会在搅拌时升起并稳定悬浮。
 
 Investigate the origins of the dynamic stabilization of the “flea” and how it depends on the relevant parameters.
 
@@ -229,11 +229,11 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A line drawn with a pencil on paper can be electrically conducting.
 
-铅笔在纸上画的一根线是电导性的。
+用铅笔在纸上画出的一条线是电导性的。
 
 Investigate the characteristics of the conducting line.
 
-探究这根导电的线的特性。
+探究这根导电的线条的特性。
 
 * 关键词
 	- 伏安特性（固体电子学）
