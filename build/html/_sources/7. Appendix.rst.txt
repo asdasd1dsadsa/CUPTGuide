@@ -203,7 +203,7 @@ Investigate the properties of such a membrane filter.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Under certain circumstances, the “flea” of a magnetic stirrer can rise up and levitate stably in a viscous fluid during stirring.
 
-在特定条件下，粘性液体中的搅拌子会在搅拌时升起并稳定悬浮。
+在特定条件下，粘性液体中的磁力搅拌子会在搅拌时升起并稳定悬浮。
 
 Investigate the origins of the dynamic stabilization of the “flea” and how it depends on the relevant parameters.
 
@@ -229,11 +229,11 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A line drawn with a pencil on paper can be electrically conducting.
 
-铅笔在纸上画的一根线是电导性的。
+用铅笔在纸上画出的一条线是电导性的。
 
 Investigate the characteristics of the conducting line.
 
-探究这根导电的线的特性。
+探究这根导电的线条的特性。
 
 * 关键词
 	- 伏安特性（固体电子学）
@@ -250,21 +250,21 @@ Investigate the characteristics of the conducting line.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Shine a laser beam onto a dark surface. A granular pattern can be seen inside the spot. When the pattern is observed by a camera or the eye, that is moving slowly, the pattern seems to drift relative to the surface.
 
-向暗表面上照一束激光，在光斑内部可以看到颗粒状图案。用人眼或相机观察时，它是缓慢运动着的，看着就像图案在相对表面运动一样。
+向暗表面 [#]_ 上照一束激光，在光斑内部可以看到颗粒状图案。用人眼或相机观察时，它是缓慢运动着的，看着就像图案在相对表面运动一样。
 
 Explain the phenomenon and investigate how the drift depends on relevant parameters.
 
 解释此现象并探究漂移是如何依赖于相关参量的。
 
 * 关键词
-	- 漫反射（几何光学）
+	- 漫反射（几何光学、统计光学）
 	- 干涉（波动光学）
 
 * 从这里开始
 	- `知乎：为什么激光光束（或其反射）会看起来有颗粒感？ <https://www.zhihu.com/question/27062939/answer/35097037>`_
 
 * 高手示范
-	- Duncan D , Kirkpatrick S . `Algorithms for simulation of speckle (laser and otherwise)[C]. <https://www.researchgate.net/publication/233783056_Algorithms_for_simulation_of_speckle_laser_and_otherwise>`_ Spie-bios Photonics West. 2008.
+	- Butters J N . `Laser Speckle and Related Phenomena[J]. <https://libgen.pw/item/detail/id/969679>`_ Optica Acta International Journal of Optics, 1976, 23(10):842-843.
 
 12. 多边形旋涡 Polygon Vortex
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -398,6 +398,8 @@ Investigate the parameters that affect the distance and the trajectory.
 
 .. [#] 注意这里说的动力学稳定性（Dynamics Stability）与题目中的动态稳定（dynamic stablization）不是同一概念！
 
+.. [#] 要求是暗表面可能只是为了保护眼睛和传感器，而并非是物理上的要求。
+
 .. [#] 原文 *massive object* 也可能指一般的有质量的物体，但考虑为较重的物体对本题的研究是有特别意义的。
 
 .. [#] 仅限定每层只有一个圆盘，而未限定具体的摆放位置。也就是说，你或许可以造一个斜塔。
@@ -448,7 +450,7 @@ Investigate the parameters that affect the distance and the trajectory.
 
 演示：Powerpoint（更通用）、LaTeX Beamer（更专业）
 
-	广告：在这个比赛中，你可以仅学习 **Mathematica** ，这样的话以上的其他软件都可以免了。当然如果你已经有Matlab等软件的使用经验，或者有特种的需求（如超高性能计算），就另说了。
+	广告：在这个比赛中，你可以仅学习 **Mathematica** ，这样的话以上的其他软件都可以免了。当然如果你已经有Matlab等软件的使用经验，或者有特种的需求（如超高性能计算），就另说了。应用于IYPT赛题的案例可参考： `知乎：wjxway - Mathematica 到底有多厉害？ <https://www.zhihu.com/question/27834147/answer/207262440>`_
 
 工程制图：Solidworks（主要3D）、AutoCAD（主要2D）
 
