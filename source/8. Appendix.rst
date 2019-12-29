@@ -207,7 +207,7 @@ Investigate the origins of the dynamic stabilization of the “flea” and how i
 
 * 关键词
 	- 粘滞阻力（流体力学）
-	- 磁场分布（电磁场论）
+	- 快速振动场（力学）
 	- 动力学稳定性 [#]_ （力学）
 
 * 从这里开始
