@@ -1,0 +1,142 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5777,        134]
+NotebookOptionsPosition[      5248,        116]
+NotebookOutlinePosition[      5605,        132]
+CellTagsIndexPosition[      5562,        129]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[GridBox[{
+   {"13", "\:9898\:610f\:7406\:89e3", "\[SpanFromLeft]", 
+    "\:8fd0\:52a8\:53c2\:91cf", "\:53d6\:51b3\:4e8e\:6a21\:578b", 
+    "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromBoth]", 
+    "\[SpanFromAbove]", "\[SpanFromAbove]", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromBoth]", 
+    "\:7cfb\:7edf\:53c2\:91cf", "\[Placeholder]", "\[SpanFromLeft]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromBoth]", 
+    "\[SpanFromAbove]", "\[Placeholder]", "\[SpanFromLeft]"},
+   {"\[SpanFromAbove]", 
+    RowBox[{
+    "\:7814", "\[IndentingNewLine]", "\:7a76", "\[IndentingNewLine]", 
+     "\:5bf9", "\[IndentingNewLine]", "\:8c61", "\[IndentingNewLine]", "1", 
+     "\[IndentingNewLine]", "\[IndentingNewLine]", "X", "\[IndentingNewLine]",
+      "X", "\[IndentingNewLine]", "X"}], "\:7406\:8bba\:65b9\:6cd5", 
+    "\:6846\:67b6", "\:725b\:987f\:529b\:5b66", 
+    RowBox[{
+    "\:53d7\:529b\:5206\:6790", "\:3001", "\:7a33\:5b9a\:6027\:5206\:6790"}]},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\:6a21\:578b", "\:5e93\:4f26\:6469\:64e6", 
+    RowBox[{
+    "\:6b63\:6bd4\:4e8e\:6b63\:538b\:529b", "\:ff0c", 
+     "\:7cfb\:6570\:6052\:5b9a"}]},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\[SpanFromAbove]", "\[Placeholder]", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\:6c42\:89e3\:53c2\:91cf", "\:8fd1\:4f3c", "\:7ebf\:6027\:5316"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\[SpanFromAbove]", "\:6570\:503c\:8ba1\:7b97", 
+    RowBox[{"Mathematica", " ", "NDSolve", " ", "Automatic"}]},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\:5b9e\:9a8c\:65b9\:6cd5", 
+    "\:7cfb\:7edf", "\:8f6c\:8f74", 
+    RowBox[{
+    "\:6b65\:8fdb\:7535\:673a", "\:3001", "\:6728\:68d2", "\:3001", 
+     "\[Ellipsis]"}]},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\[SpanFromAbove]", "\[Placeholder]", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\:6d4b\:91cf", "\:9891\:7387", "\:76f8\:673a"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\[SpanFromAbove]", "\[Placeholder]", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\:6570\:636e\:5904\:7406\:65b9\:6cd5", 
+    "\:83b7\:53d6\:6a21\:578b\:53c2\:91cf", "\:7269\:7406\:91cfA", 
+    "\:62df\:5408"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\[SpanFromAbove]", "\:7269\:7406\:91cfB", "\:7edf\:8ba1"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\:7ed8\:56fe", "\[Placeholder]", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\:7ed3\:8bba", "\:5185\:5bb9", 
+    "\[Placeholder]", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\:8bf4\:670d\:529b", "\:8bc1\:636e", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\[SpanFromAbove]", "\[SpanFromAbove]", 
+    "\[SpanFromAbove]", "\:5b58\:7591", "\[Placeholder]"},
+   {"\[SpanFromAbove]", "\:95ee\:98982", "\[Placeholder]", "\[Placeholder]", 
+    "\[Placeholder]", "\[Placeholder]"}
+  },
+  GridBoxDividers->{
+   "Columns" -> {{True}}, "ColumnsIndexed" -> {}, "Rows" -> {{True}}, 
+    "RowsIndexed" -> {}}]], "Text",
+ CellChangeTimes->{{3.7866127565737643`*^9, 3.7866127710118203`*^9}, {
+  3.786612919917864*^9, 3.78661359395776*^9}, {3.7866136500511026`*^9, 
+  3.786613653827132*^9}, {3.7866138428694983`*^9, 3.786613864491418*^9}, {
+  3.7866141634749756`*^9, 3.7866143559849415`*^9}, {3.786614482754837*^9, 
+  3.786614519375719*^9}, {3.7866145736624317`*^9, 
+  3.786614618499556*^9}},ExpressionUUID->"3b334837-06d1-4f57-abd4-\
+1e0be86f2830"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Export", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"NotebookDirectory", "[", "]"}], "<>", 
+    "\"\<SampleTable.png\>\""}], ",", 
+   RowBox[{"NotebookRead", "@", 
+    RowBox[{"PreviousCell", "@", 
+     RowBox[{"EvaluationCell", "[", "]"}]}]}], ",", "\"\<PNG\>\""}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.7866137042703667`*^9, 3.786613798809186*^9}, {
+  3.7866140458113775`*^9, 
+  3.7866140889609423`*^9}},ExpressionUUID->"4ea36313-f59c-4e07-8d15-\
+e9c078769a49"],
+
+Cell[BoxData["\<\"X:\\\\Document\\\\MyCreation\\\\CUPTGuide\\\\source\\\\\
+PlottingScript\\\\SampleTable.png\"\>"], "Output",
+ CellChangeTimes->{{3.7866137784938183`*^9, 3.7866138005933957`*^9}, 
+   3.78661386748635*^9, {3.786614057111862*^9, 3.7866140604409423`*^9}, 
+   3.786614090457066*^9, 3.7866145444172773`*^9, 
+   3.786614633810726*^9},ExpressionUUID->"ef2d3bd4-9a40-432e-a739-\
+84d3a41854b1"]
+}, Open  ]]
+},
+WindowSize->{775, 553},
+WindowMargins->{{244, Automatic}, {Automatic, 54}},
+FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (2017\:5e7410\:67082\
+\:65e5)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 3756, 68, 461, "Text",ExpressionUUID->"3b334837-06d1-4f57-abd4-1e0be86f2830"],
+Cell[CellGroupData[{
+Cell[4339, 92, 489, 13, 87, "Input",ExpressionUUID->"4ea36313-f59c-4e07-8d15-e9c078769a49"],
+Cell[4831, 107, 401, 6, 34, "Output",ExpressionUUID->"ef2d3bd4-9a40-432e-a739-84d3a41854b1"]
+}, Open  ]]
+}
+]
+*)
+

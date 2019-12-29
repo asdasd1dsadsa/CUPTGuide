@@ -10,14 +10,16 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     13923,        300]
-NotebookOptionsPosition[     13610,        286]
-NotebookOutlinePosition[     13967,        302]
-CellTagsIndexPosition[     13924,        299]
+NotebookDataLength[     14402,        311]
+NotebookOptionsPosition[     13961,        294]
+NotebookOutlinePosition[     14318,        310]
+CellTagsIndexPosition[     14275,        307]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
 Cell[BoxData[{
  RowBox[{
   RowBox[{"Begin", "[", "\"\<CUPTTimer`\>\"", "]"}], 
@@ -58,53 +60,54 @@ Cell[BoxData[{
   RowBox[{"nb", "=", 
    RowBox[{"CreateDocument", "[", "\[IndentingNewLine]", 
     RowBox[{
-     RowBox[{"Cell", "@", 
-      RowBox[{"BoxData", "@", 
-       RowBox[{"MakeBoxes", "@", 
-        RowBox[{"Dynamic", "@", 
-         RowBox[{"Column", "[", 
-          RowBox[{"{", 
-           RowBox[{
-            RowBox[{"Show", "[", "\[IndentingNewLine]", 
-             RowBox[{
-              RowBox[{"Graphics", "[", 
-               RowBox[{"{", 
-                RowBox[{
-                 RowBox[{"RGBColor", "[", 
-                  RowBox[{
-                   FractionBox[
+     RowBox[{"Cell", "[", 
+      RowBox[{
+       RowBox[{"BoxData", "@", 
+        RowBox[{"MakeBoxes", "@", 
+         RowBox[{"Dynamic", "@", 
+          RowBox[{"Column", "[", 
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"Show", "[", "\[IndentingNewLine]", 
+              RowBox[{
+               RowBox[{"Graphics", "[", 
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{"RGBColor", "[", 
+                   RowBox[{
+                    FractionBox[
                     RowBox[{"t", "-", "t0"}], "timer"], ",", 
-                   RowBox[{"(", 
+                    RowBox[{"(", 
                     RowBox[{"1", "-", 
                     FractionBox[
                     RowBox[{"t", "-", "t0"}], "timer"]}], ")"}], ",", "0"}], 
-                  "]"}], ",", 
-                 RowBox[{"Disk", "[", 
-                  RowBox[{
-                   RowBox[{"{", 
+                   "]"}], ",", 
+                  RowBox[{"Disk", "[", 
+                   RowBox[{
+                    RowBox[{"{", 
                     RowBox[{"0", ",", "0"}], "}"}], ",", "1", ",", 
-                   RowBox[{"{", 
+                    RowBox[{"{", 
                     RowBox[{"0", ",", 
                     RowBox[{
                     FractionBox[
                     RowBox[{"t", "-", "t0"}], "timer"], "2", "\[Pi]"}]}], 
                     "}"}]}], "]"}]}], "}"}], "]"}], ",", 
-              "\[IndentingNewLine]", 
-              RowBox[{"Graphics", "[", 
-               RowBox[{"{", 
-                RowBox[{
-                 RowBox[{"Opacity", "[", "0", "]"}], ",", 
-                 RowBox[{"Disk", "[", 
-                  RowBox[{
-                   RowBox[{"{", 
+               "\[IndentingNewLine]", 
+               RowBox[{"Graphics", "[", 
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{"Opacity", "[", "0", "]"}], ",", 
+                  RowBox[{"Disk", "[", 
+                   RowBox[{
+                    RowBox[{"{", 
                     RowBox[{"0", ",", "0"}], "}"}], ",", "1"}], "]"}]}], 
-                "}"}], "]"}], ",", "\[IndentingNewLine]", 
-              RowBox[{"Graphics", "@", 
-               RowBox[{"Text", "[", 
-                RowBox[{
-                 RowBox[{"Style", "[", 
-                  RowBox[{
-                   RowBox[{"Refresh", "[", 
+                 "}"}], "]"}], ",", "\[IndentingNewLine]", 
+               RowBox[{"Graphics", "@", 
+                RowBox[{"Text", "[", 
+                 RowBox[{
+                  RowBox[{"Style", "[", 
+                   RowBox[{
+                    RowBox[{"Refresh", "[", 
                     RowBox[{
                     RowBox[{
                     RowBox[{"DateString", "[", 
@@ -121,55 +124,54 @@ Cell[BoxData[{
                     "\"\<Minute\>\"", ",", "\"\<:\>\"", ",", 
                     "\"\<Second\>\""}], "}"}]}], "]"}]}], ",", 
                     RowBox[{"UpdateInterval", "\[Rule]", "1"}]}], "]"}], ",", 
-                   "48"}], "]"}], ",", 
-                 RowBox[{"{", 
-                  RowBox[{"2.5", ",", 
-                   RowBox[{"-", ".5"}]}], "}"}]}], "]"}]}], ",", 
-              "\[IndentingNewLine]", 
-              RowBox[{"Graphics", "@", 
-               RowBox[{"Text", "[", 
-                RowBox[{
-                 RowBox[{"Style", "[", 
-                  RowBox[{
-                   RowBox[{"textlist", "[", 
-                    RowBox[{"[", "i", "]"}], "]"}], ",", "48"}], "]"}], ",", 
-                 RowBox[{"{", 
-                  RowBox[{"2.5", ",", ".5"}], "}"}]}], "]"}]}], 
-              "\[IndentingNewLine]", ",", 
-              RowBox[{"ImageSize", "\[Rule]", "Full"}]}], "]"}], ",", 
-            "\[IndentingNewLine]", 
-            RowBox[{"Row", "[", 
-             RowBox[{"{", "\[IndentingNewLine]", 
-              RowBox[{
-               RowBox[{"Button", "[", 
-                RowBox[{"\"\<\:524d\:4e00\:9636\:6bb5\>\"", ",", 
+                    "48"}], "]"}], ",", 
+                  RowBox[{"{", 
+                   RowBox[{"2.5", ",", 
+                    RowBox[{"-", ".5"}]}], "}"}]}], "]"}]}], ",", 
+               "\[IndentingNewLine]", 
+               RowBox[{"Graphics", "@", 
+                RowBox[{"Text", "[", 
                  RowBox[{
-                  RowBox[{"noclip", "=", "False"}], ";", 
-                  RowBox[{"i", "=", 
-                   RowBox[{"i", "-", "2"}]}]}], ",", 
-                 RowBox[{"ImageSize", "\[Rule]", 
-                  RowBox[{"Scaled", "[", 
-                   RowBox[{"1", "/", "3"}], "]"}]}]}], "]"}], ",", 
-               "\[IndentingNewLine]", 
-               RowBox[{"Button", "[", 
-                RowBox[{
-                "\"\<\:4ece\:672c\:9636\:6bb5\:91cd\:65b0\:8ba1\:65f6\>\"", 
-                 ",", 
-                 RowBox[{"t0", "=", 
-                  RowBox[{"AbsoluteTime", "[", "]"}]}], ",", 
-                 RowBox[{"ImageSize", "\[Rule]", 
-                  RowBox[{"Scaled", "[", 
-                   RowBox[{"1", "/", "3"}], "]"}]}]}], "]"}], ",", 
-               "\[IndentingNewLine]", 
-               RowBox[{"Button", "[", 
-                RowBox[{"\"\<\:540e\:4e00\:9636\:6bb5\>\"", ",", 
-                 RowBox[{"noclip", "=", "False"}], ",", 
-                 RowBox[{"ImageSize", "\[Rule]", 
-                  RowBox[{"Scaled", "[", 
-                   RowBox[{"1", "/", "3"}], "]"}]}]}], "]"}]}], 
-              "\[IndentingNewLine]", "}"}], "]"}]}], "\[IndentingNewLine]", 
-           "}"}], "\[IndentingNewLine]", "]"}]}]}]}]}], "\[IndentingNewLine]",
-      ",", 
+                  RowBox[{"Style", "[", 
+                   RowBox[{
+                    RowBox[{"textlist", "[", 
+                    RowBox[{"[", "i", "]"}], "]"}], ",", "48"}], "]"}], ",", 
+                  RowBox[{"{", 
+                   RowBox[{"2.5", ",", ".5"}], "}"}]}], "]"}]}], 
+               "\[IndentingNewLine]", ",", 
+               RowBox[{"ImageSize", "\[Rule]", "Full"}]}], "]"}], ",", 
+             "\[IndentingNewLine]", 
+             RowBox[{"Row", "[", 
+              RowBox[{"{", "\[IndentingNewLine]", 
+               RowBox[{
+                RowBox[{"Button", "[", 
+                 RowBox[{"\"\<\:524d\:4e00\:9636\:6bb5\>\"", ",", 
+                  RowBox[{
+                   RowBox[{"noclip", "=", "False"}], ";", 
+                   RowBox[{"i", "=", 
+                    RowBox[{"i", "-", "2"}]}]}], ",", 
+                  RowBox[{"ImageSize", "\[Rule]", 
+                   RowBox[{"Scaled", "[", "0.2", "]"}]}]}], "]"}], ",", 
+                "\[IndentingNewLine]", 
+                RowBox[{"Button", "[", 
+                 RowBox[{
+                 "\"\<\:4ece\:672c\:9636\:6bb5\:91cd\:65b0\:8ba1\:65f6\>\"", 
+                  ",", 
+                  RowBox[{"t0", "=", 
+                   RowBox[{"AbsoluteTime", "[", "]"}]}], ",", 
+                  RowBox[{"ImageSize", "\[Rule]", 
+                   RowBox[{"Scaled", "[", "0.3", "]"}]}]}], "]"}], ",", 
+                "\[IndentingNewLine]", 
+                RowBox[{"Button", "[", 
+                 RowBox[{"\"\<\:540e\:4e00\:9636\:6bb5\>\"", ",", 
+                  RowBox[{"noclip", "=", "False"}], ",", 
+                  RowBox[{"ImageSize", "\[Rule]", 
+                   RowBox[{"Scaled", "[", "0.2", "]"}]}]}], "]"}]}], 
+               "\[IndentingNewLine]", "}"}], "]"}]}], "\[IndentingNewLine]", 
+            "}"}], "\[IndentingNewLine]", "]"}]}]}]}], "\[IndentingNewLine]", 
+       ",", 
+       RowBox[{"ShowCellBracket", "\[Rule]", "False"}]}], "]"}], 
+     "\[IndentingNewLine]", ",", 
      RowBox[{"WindowTitle", "\[Rule]", "\"\<CUPT Timer Window\>\""}], 
      "\[IndentingNewLine]", ",", 
      RowBox[{"WindowSize", "\[Rule]", "Full"}], "\[IndentingNewLine]", ",", 
@@ -280,9 +282,15 @@ Cell[BoxData[{
    3.7863469269443493`*^9}, {3.7863469789834943`*^9, 3.78634701538168*^9}, {
    3.7863471109947557`*^9, 3.786347113897029*^9}, {3.786347422830038*^9, 
    3.786347424072576*^9}, {3.7863474945880203`*^9, 3.786347501721816*^9}, {
-   3.786347557791147*^9, 
-   3.78634755958654*^9}},ExpressionUUID->"b75095c7-ed13-4111-b481-\
-97fb293236f1"]
+   3.786347557791147*^9, 3.78634755958654*^9}, {3.786360052282611*^9, 
+   3.7863601382125206`*^9}},ExpressionUUID->"b75095c7-ed13-4111-b481-\
+97fb293236f1"],
+
+Cell[BoxData["\<\"Notebook is now closed.\"\>"], "Output",
+ CellChangeTimes->{{3.7863600679974146`*^9, 
+  3.786360141458152*^9}},ExpressionUUID->"1092ae98-96a2-4a21-b863-\
+6d0a5cc5d6df"]
+}, Open  ]]
 },
 WindowSize->{1280, 677},
 WindowMargins->{{-8, Automatic}, {Automatic, -8}},
@@ -301,7 +309,10 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 13048, 264, 1573, "Input",ExpressionUUID->"b75095c7-ed13-4111-b481-97fb293236f1"]
+Cell[CellGroupData[{
+Cell[580, 22, 13176, 264, 1621, "Input",ExpressionUUID->"b75095c7-ed13-4111-b481-97fb293236f1"],
+Cell[13759, 288, 186, 3, 34, "Output",ExpressionUUID->"1092ae98-96a2-4a21-b863-6d0a5cc5d6df"]
+}, Open  ]]
 }
 ]
 *)
