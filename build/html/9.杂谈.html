@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>搜索 &mdash; CUPTGuide  文档</title>
+  <title>杂谈 &mdash; CUPTGuide  文档</title>
   
 
   
@@ -34,8 +34,9 @@
   
         <link rel="index" title="索引"
               href="genindex.html"/>
-        <link rel="search" title="搜索" href="#"/>
-    <link rel="top" title="CUPTGuide  文档" href="index.html"/> 
+        <link rel="search" title="搜索" href="search.html"/>
+    <link rel="top" title="CUPTGuide  文档" href="index.html"/>
+        <link rel="prev" title="附录" href="8. Appendix.html"/> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -67,7 +68,7 @@
 
           
 <div role="search">
-  <form id="rtd-search-form" class="wy-form" action="#" method="get">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
@@ -85,7 +86,7 @@
             
             
               <p class="caption"><span class="caption-text">目录</span></p>
-<ul>
+<ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="1. Preface.html">前言</a></li>
 <li class="toctree-l1"><a class="reference internal" href="2. Intro_Tournament.html">竞赛简介</a></li>
 <li class="toctree-l1"><a class="reference internal" href="3. Intro_Research.html">研究简介</a></li>
@@ -94,7 +95,15 @@
 <li class="toctree-l1"><a class="reference internal" href="6. Research.html">研究</a></li>
 <li class="toctree-l1"><a class="reference internal" href="7. Tournament.html">赛场表现</a></li>
 <li class="toctree-l1"><a class="reference internal" href="8. Appendix.html">附录</a></li>
-<li class="toctree-l1"><a class="reference internal" href="9.杂谈.html">杂谈</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">杂谈</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id2">前车之鉴</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id3">只会说自然语言</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">不精确拟合不舒服星人</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id5">悠悠苍天何薄于我</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
             
@@ -139,10 +148,14 @@
     
       <li><a href="index.html">Docs</a> &raquo;</li>
         
-      <li>搜索</li>
+      <li>杂谈</li>
     
     
       <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/9.杂谈.rst.txt" rel="nofollow"> View page source</a>
+          
         
       </li>
     
@@ -154,19 +167,54 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <noscript>
-  <div id="fallback" class="admonition warning">
-    <p class="last">
-      Please activate JavaScript to enable the search
-      functionality.
-    </p>
-  </div>
-  </noscript>
+  <div class="section" id="id1">
+<h1>杂谈<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h1>
+<div class="section" id="id2">
+<h2>前车之鉴<a class="headerlink" href="#id2" title="永久链接至标题">¶</a></h2>
+<p>我校校内选拔赛刚刚结束，这里（无序地）介绍一些参赛者的前车之鉴（非物理）。</p>
+<div class="section" id="id3">
+<h3>只会说自然语言<a class="headerlink" href="#id3" title="永久链接至标题">¶</a></h3>
+<p>一句“蓖麻油加热到A摄氏度时的粘滞系数是XXX，甘油加热到B摄氏度时的粘滞系数是YYY，甘油加热到C摄氏度时的粘滞系数是ZZZ。”插在PPT里的一段话里。</p>
+<p>——完全可以这样：</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td>粘滞系数</td>
+<td>A℃</td>
+<td>B℃</td>
+<td>C℃</td>
+</tr>
+<tr class="row-even"><td>蓖麻油</td>
+<td>XXX</td>
+<td>×</td>
+<td>×</td>
+</tr>
+<tr class="row-odd"><td>甘油</td>
+<td>×</td>
+<td>YYY</td>
+<td>ZZZ</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="id4">
+<h3>不精确拟合不舒服星人<a class="headerlink" href="#id4" title="永久链接至标题">¶</a></h3>
+<p>使用 <span class="math notranslate">\(a\exp(bx)+c\exp(dx)+e\)</span> 拟合数据。</p>
+<p>——在没有给出物理事实的数学规律背景时，双指数模型和三次函数有什么区别吗？带有五个自由参数的非线性函数，拟合什么不能拟合上？拟合究竟有什么意义？如果只是要连接数据点，使用插值就行了，直线样条还是低阶多项式都行。</p>
+</div>
+<div class="section" id="id5">
+<h3>悠悠苍天何薄于我<a class="headerlink" href="#id5" title="永久链接至标题">¶</a></h3>
+<p>“由于XXX我做不到YYY……”</p>
+<p>——不要强调客观困难，说着“这不是我能控制的”什么的。研究者通常就需要控制事情像自己所预料的那样发生。如果条件确实不允许，可以改进方法避开它，使其不再是一个问题。</p>
+</div>
+</div>
+</div>
 
-  
-  <div id="search-results">
-  
-  </div>
 
            </div>
            <div class="articleComments">
@@ -174,6 +222,13 @@
            </div>
           </div>
           <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="8. Appendix.html" class="btn btn-neutral" title="附录" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
   
 
   <hr/>
@@ -214,7 +269,6 @@
       <script type="text/javascript" src="_static/doctools.js"></script>
       <script type="text/javascript" src="_static/translations.js"></script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-      <script type="text/javascript" src="_static/searchtools.js"></script>
 
   
 
@@ -230,14 +284,7 @@
           SphinxRtdTheme.StickyNav.enable();
       });
   </script>
-  
-  <script type="text/javascript">
-    jQuery(function() { Search.loadIndex("searchindex.js"); });
-  </script>
-  
-  <script type="text/javascript" id="searchindexloader"></script>
    
-
 
 </body>
 </html>
